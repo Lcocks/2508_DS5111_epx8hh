@@ -20,13 +20,11 @@ Git credentials should be setup via the settings and by following the [GitHub SS
 3. In order to access GitHub from anywhere in your directories, enter your .ssh root directory, create a config file with `nano config` and provide this inside the file:
    
    ```
-   #
    Host github.com
        HostName github.com
        User git
        IdentityFile ~/.ssh/id_ed25519
        IdentitiesOnly Yes
-   #
    ```
 
 4. Run `cat id_ed25519.pub` to see the provided SSH key, copy this key, navigate back to GitHub, create new SSH key, provide a terse title, and paste the key into the 'key' box. Finally add the key.
