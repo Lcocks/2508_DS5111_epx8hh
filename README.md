@@ -37,11 +37,15 @@ At this point your GitHub account and your directory should be linked and authen
 
 Create a new repo (make sure you are in the pwd you want to be in) by cloning this repo with `git clone git@github.com:Lcocks/2508_DS5111_epx8hh.git` command scripts.
 
-If you want to remove the remote origin control (make your clone independent) then:
-1. `cd repo-name` 
-2. `git remote remove origin`
-3. Create a new repo in your GitHub account
-4. `git remote add origin git@github.com:yourusername/new-repo-name.git`
-5. Finally push the change with `git push -u origin main`
+   If you want to remove the remote origin control (make your clone independent) then:
+   1. `cd repo-name` 
+   2. `git remote remove origin`
+   3. Create a new repo in your GitHub account
+   4. `git remote add origin git@github.com:yourusername/new-repo-name.git`
+   5. Finally push the change with `git push -u origin main`
 
 Run the init.sh file with `bash init.sh`. Your packages should be up to date with some others installed.
+
+
+
+
