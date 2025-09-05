@@ -46,6 +46,8 @@ Create a new repo (make sure you are in the pwd you want to be in) by cloning th
 
 Run the init.sh file with `bash init.sh`. Your packages should be up to date with some others installed.
 
+### Project Specific Setup
+
 
 
 
