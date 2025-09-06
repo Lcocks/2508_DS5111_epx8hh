@@ -22,7 +22,7 @@ Create a new repo (make sure you are in the pwd you want to be in) by cloning th
 Run the init.sh file with `bash init.sh`. Your packages should be up to date with some others installed.
 
 
-## Setting up generic bootstrap sequence
+## Setting up generic bootstrap sequence (from your VM)
 
 This repo will have the "scripts" directory, "makefile", and "requirements.txt" that are required to start.
 
