@@ -1,6 +1,18 @@
 # 2508_DS5111_epx8hh
 Repo for DS5111 Automation and Data Pipeline with Automation
 
+
+## Sequence
+
+Make it executable by running `chmod +x init.sh` in the directory the init.sh file is located.
+
+Then run the script with `bash init.sh`
+
+If all went well, you should be able to execute `tree` and instead of an error see the name of the init.sh script.
+
+Create a github credentials file name init_git_creds.sh and make it executable (like before) with `chmod +x init_git_creds.sh`.
+
+
 ## Setting up generic bootstrap sequence
 
 *A new VM should have `sudo apt update` run manually, do this right in the VM, later the init.sh file will be run to apply this among other package updates.*
