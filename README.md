@@ -42,6 +42,8 @@ Finally check the python environment is working use `. env/bin/activate`, this a
 
 Feel free to git add, commit, and push to ensure everything is updated accordingly and in sync.
 
+STEP 2:
+
 We want to work from a new branch so at this point we will make a new branch from the root with `git checkout -b m02_normalizer`. We will be working from this branch for the next steps.
 
 	Now use `git push` to activate the branch. You can always check your branch on the github web UI.
@@ -54,7 +56,26 @@ Within your repository you will have a scripts folder, in which 'install_chrome_
 
 Now navigate to the root of your repo and enter the '.gitignore' file. In here you will go to the very end of the file, add a few lines and instert `**/*.deb` to instruct git to ignore the deb file type.
 
-Finally give your repo a check with `git status`, add, commit (with sufficient info), and push to 
+Finally give your repo a check with `git status`, add, commit (with sufficient info), and push.
+
+STEP 3: 
+
+From your repo root `cat requirements.txt` in order to verify you have all the neccessary packages like beautifulsoup4, lxml and html5lib. 
+
+Also check your 'makefile' and verify it includes the ygainers.html and wsjgainers.html jobs. If you so you then `make update` to ensure your make if up to date, `. env/bin/activate` to start your virtual environment kernel, and run `make wsjgainers.csv` and `make ygainers.csv` respectively.
+
+	You will know the jobs correctly ran when there is a .csv file of each name in your directory and it will display something like this:
+
+	,Unnamed: 0,Volume,Last,Chg,% Chg
+	0,QMMM Holdings Ltd. Cl A (QMMM),14.8M,207.0,195.73,1736.73
+	1,Epsium Enterprise Ltd. (EPSM),665.3K,138.0,111.02,411.49
+	2,CaliberCos Inc. (CWD),133.4M,9.11,6.96,323.72
+	3,Kindly MD Inc. (NAKA),15.9M,8.08,3.52,77.19
+	4,Pitanium Ltd. (PTNM),26.8M,4.53,1.79,65.33
+
+Now following the same logic as before, edit the '.gitignore' file to disregard the .csv and .html files types. 
+
+After this is complete you can add, commit, and push to the new branch(which should display with `git branch`.
 
 
 
