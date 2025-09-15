@@ -42,6 +42,21 @@ Finally check the python environment is working use `. env/bin/activate`, this a
 
 Feel free to git add, commit, and push to ensure everything is updated accordingly and in sync.
 
+We want to work from a new branch so at this point we will make a new branch from the root with `git checkout -b m02_normalizer`. We will be working from this branch for the next steps.
+
+	Now use `git push` to activate the branch. You can always check your branch on the github web UI.
+
+Within your repository you will have a scripts folder, in which 'install_chrome_headless.sh' will reside. Feel free to review the file with cat, vim, or nano.
+	
+	Run the script with `bash install_chrome_headless.sh` 
+	
+	If all went well, you should see some text near the bottom that says <h1>Example Domain</h1>. This means it was able to download the html from example.com
+
+Now navigate to the root of your repo and enter the '.gitignore' file. In here you will go to the very end of the file, add a few lines and instert `**/*.deb` to instruct git to ignore the deb file type.
+
+Finally give your repo a check with `git status`, add, commit (with sufficient info), and push to 
+
+
 
 ## Appendix A
 
