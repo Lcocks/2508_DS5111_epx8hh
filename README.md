@@ -5,6 +5,8 @@ Repo for DS5111 Automation and Data Pipeline with Automation
 
 1. This is based on Amazon AWS EC2 with a created instance. Please ensure this is already present (this will serve as our virtual ubuntu linux machine).
 
+	a. This VM should match with `Ubuntu Server 24.04.1 LTS (HVM), SSD Volume Type`
+
 2. Please have a github key already established inside the Virtual Machine. If not see Appendix A. 
 
 
