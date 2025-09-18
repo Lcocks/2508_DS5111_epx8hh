@@ -75,7 +75,15 @@ Also check your 'makefile' and verify it includes the ygainers.html and wsjgaine
 
 Now following the same logic as before, edit the '.gitignore' file to disregard the .csv and .html files types. 
 
-After this is complete you can add, commit, and push to the new branch(which should display with `git branch`.
+After this is complete you can add, commit, and push to the new branch(which should display with `git branch`).
+
+Step 4:
+
+Navigate to the root directory of the repo, `cd` into the `bin/` directory and review the `my_normalizer.py` file with `cat my_normalizer.py`.
+
+	This should contain 2 function for each of the csv files from Yahoo and WSJ. Feel free to run the script by exiting the file and (with your environment active) run `python3 my_normalizer.py`. 2 files should be created and within those normalized stock data should display.
+
+There should be no need to update git as nothing has changed (since we ran the python script, the created files are .csv and therefore ignored by git since our `.git/ignore` updates).
 
 
 
