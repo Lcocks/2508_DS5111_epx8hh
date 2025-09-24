@@ -85,6 +85,18 @@ Navigate to the root directory of the repo, `cd` into the `bin/` directory and r
 
 There should be no need to update git as nothing has changed (since we ran the python script, the created files are .csv and therefore ignored by git since our `.git/ignore` updates).
 
+Step 5: Setting Up Testing
+
+Requirements.txt will have `pylint` and `pytest`, to test run pylint use `pylint bin/my_normalizer.py` and a score should display to indicate a working command.
+
+The `tests` directory will have several tests including `test_testsmoke.py`, to test this package you can run the file directly in your env. All tests should PASS.
+
+`pylintrc` will be present in the root directory as well which gives the conditions for how pylint conducts its testing (standards). The makefile should have `lint` job and `test` jobs which will run consecutively with `make test`.
+
+`testing.py` is a python file to test simple functions, feel free to use as necessary to test before making final adjustments to a full `test_...` file.
+
+After confirming all the working packages, files, and commands you should be good. Unless a change was made no reason to commit to git.
+
 
 
 ## Appendix A
