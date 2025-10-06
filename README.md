@@ -97,6 +97,14 @@ The `tests` directory will have several tests including `test_testsmoke.py`, to 
 
 After confirming all the working packages, files, and commands you should be good. Unless a change was made no reason to commit to git.
 
+Step 6: Getting validations.yml and basic.yml setup
+
+The `.github/workflows` folder was created as a hidden directory, this also serves as the base of the github actions (workflows). 
+
+In this you will find 2 file names including `validations.yml` & `basic.yml` of which have several jobs. When pushing you will see under the github actions tab in github,
+	a either successfully run or failed actions (this should in include the 2 file names mentioned above for a push).
+
+The success of a passing action can be captued as a 'badge' and displayed (commonly in your README): please see Appendix A - Badge for Successful Testing.
 
 
 ## Appendix A
@@ -132,6 +140,12 @@ Git credentials should be setup via the settings and by following the [GitHub SS
 5. Back in the command line, test connection with `ssh -T git@github.com` and type `yes` to add git@github.com to be added to the permanent list of known hosts. **Your GitHub handle should appear**
 
 At this point your GitHub account and your directory should be linked and authenticated.
+
+### Badge for Successful Testing
+
+1. .
+2. 
+   
 
 ### Additional Resources
 
