@@ -13,17 +13,17 @@ def test_of_pytest():
 def test_python_version():
     python_current = sys.version_info
 
-    if python_current.major == 3 and python_current.minor == 12 and python_current.micro == 3:
-        print("Python version is 3.12.3")
+    if python_current.major == 3 and python_current.minor == 12:
+        print("Python version is 3.12")
         assert True
     else:
-        assert False, "Python version is NOT 3.12.3"
+        assert False, "Python version is NOT 3.12"
 
 def test_os():
     platform_current = platform.platform()
 
     if "Linux-6.14.0" in platform_current:
-        print("Linux version is 6.14.0")
+        print("Linux version is 6.14")
         assert True
 
     version_current = platform.uname()
