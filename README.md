@@ -42,6 +42,62 @@ Finally check the python environment is working use `. env/bin/activate`, this a
 
 Feel free to git add, commit, and push to ensure everything is updated accordingly and in sync.
 
+STEP 2:
+
+We want to work from a new branch so at this point we will make a new branch from the root with `git checkout -b m02_normalizer`. We will be working from this branch for the next steps.
+
+	Now use `git push` to activate the branch. You can always check your branch on the github web UI.
+
+Within your repository you will have a scripts folder, in which 'install_chrome_headless.sh' will reside. Feel free to review the file with cat, vim, or nano.
+	
+	Run the script with `bash install_chrome_headless.sh` 
+	
+	If all went well, you should see some text near the bottom that says <h1>Example Domain</h1>. This means it was able to download the html from example.com
+
+Now navigate to the root of your repo and enter the '.gitignore' file. In here you will go to the very end of the file, add a few lines and instert `**/*.deb` to instruct git to ignore the deb file type.
+
+Finally give your repo a check with `git status`, add, commit (with sufficient info), and push.
+
+STEP 3: 
+
+From your repo root `cat requirements.txt` in order to verify you have all the neccessary packages like beautifulsoup4, lxml and html5lib. 
+
+Also check your 'makefile' and verify it includes the ygainers.html and wsjgainers.html jobs. If you so you then `make update` to ensure your make if up to date, `. env/bin/activate` to start your virtual environment kernel, and run `make wsjgainers.csv` and `make ygainers.csv` respectively.
+
+	You will know the jobs correctly ran when there is a .csv file of each name in your directory and it will display something like this:
+
+	,Unnamed: 0,Volume,Last,Chg,% Chg
+	0,QMMM Holdings Ltd. Cl A (QMMM),14.8M,207.0,195.73,1736.73
+	1,Epsium Enterprise Ltd. (EPSM),665.3K,138.0,111.02,411.49
+	2,CaliberCos Inc. (CWD),133.4M,9.11,6.96,323.72
+	3,Kindly MD Inc. (NAKA),15.9M,8.08,3.52,77.19
+	4,Pitanium Ltd. (PTNM),26.8M,4.53,1.79,65.33
+
+Now following the same logic as before, edit the '.gitignore' file to disregard the .csv and .html files types. 
+
+After this is complete you can add, commit, and push to the new branch(which should display with `git branch`).
+
+Step 4:
+
+Navigate to the root directory of the repo, `cd` into the `bin/` directory and review the `my_normalizer.py` file with `cat my_normalizer.py`.
+
+	This should contain 2 function for each of the csv files from Yahoo and WSJ. Feel free to run the script by exiting the file and (with your environment active) run `python3 my_normalizer.py`. 2 files should be created and within those normalized stock data should display.
+
+There should be no need to update git as nothing has changed (since we ran the python script, the created files are .csv and therefore ignored by git since our `.git/ignore` updates).
+
+Step 5: Setting Up Testing
+
+Requirements.txt will have `pylint` and `pytest`, to test run pylint use `pylint bin/my_normalizer.py` and a score should display to indicate a working command.
+
+The `tests` directory will have several tests including `test_testsmoke.py`, to test this package you can run the file directly in your env. All tests should PASS.
+
+`pylintrc` will be present in the root directory as well which gives the conditions for how pylint conducts its testing (standards). The makefile should have `lint` job and `test` jobs which will run consecutively with `make test`.
+
+`testing.py` is a python file to test simple functions, feel free to use as necessary to test before making final adjustments to a full `test_...` file.
+
+After confirming all the working packages, files, and commands you should be good. Unless a change was made no reason to commit to git.
+
+
 
 ## Appendix A
 
