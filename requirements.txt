@@ -1,7 +1,8 @@
-pandas
-numpy
-lxml
-html5lib
-beautifulsoup4
-pylint
-pytest
+pandas==2.3.2
+numpy==2.3.2
+lxml==6.0.1
+html5lib==1.1
+beautifulsoup4==4.13.5
+pylint==3.3.8
+pytest==8.4.2
+
