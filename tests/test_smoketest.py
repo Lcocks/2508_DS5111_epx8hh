@@ -13,11 +13,11 @@ def test_of_pytest():
 def test_python_version():
     python_current = sys.version_info
 
-    if python_current.major == 3 and python_current.minor == 12:
-        print("Python version is 3.12")
+    if python_current.major == 3 and (python_current.minor == 12 or python_current.minor ==13):
+        print("Python version is 3.12 or 3.13")
         assert True
     else:
-        assert False, "Python version is NOT 3.12"
+        assert False, "Python version is NOT 3.12 or 3.13"
 
 def test_os():
     platform_current = platform.platform()
@@ -31,6 +31,10 @@ def test_os():
     if "24.04.1-Ubuntu" in version_current.version:
         print("Ubuntu version is 24.04.01")
         assert True
+
+
+
+
 
 #def test_normalizer():
 #    nm.normalize_yahoo("test")
