@@ -144,7 +144,7 @@ At this point your GitHub account and your directory should be linked and authen
 ### Badge for Successful Testing
 
 1. [![Feature Validation](https://github.com/Lcocks/2508_DS5111_epx8hh/actions/workflows/validations.yml/badge.svg)](https://github.com/Lcocks/2508_DS5111_epx8hh/actions/workflows/validations.yml)
-2. [![CI](https://github.com/Lcocks/2508_DS5111_epx8hh/actions/workflows/basic.yml/badge.svg?branch=patch-1)](https://github.com/Lcocks/2508_DS5111_epx8hh/actions/workflows/basic.yml)
+2. [![CI](https://github.com/Lcocks/2508_DS5111_epx8hh/actions/workflows/basic.yml/badge.svg)](https://github.com/Lcocks/2508_DS5111_epx8hh/actions/workflows/basic.yml)
 
 
    
