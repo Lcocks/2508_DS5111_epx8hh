@@ -79,12 +79,12 @@ if __name__ == "__main__":
         normalize_yahoo(pd.read_csv('../ygainers.csv', index_col=0))
     except FileNotFoundError:
         print("Warning: ygainers.csv not found, skipping...")
-    except Exception as e:
+    except (pd.errors.EmptyDataError, pd.errors.ParserError, ValueError) as e:
         print(f"Error processing ygainers.csv: {e}")
 
     try:
         normalize_wsj(pd.read_csv('../wsjgainers.csv', index_col=0))
     except FileNotFoundError:
         print("Warning: wsjgainers.csv not found, skipping...")
-    except Exception as e:
+    except (pd.errors.EmptyDataError, pd.errors.ParserError, ValueError) as e:
         print(f"Error processing wsjgainers.csv: {e}")
