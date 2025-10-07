@@ -23,7 +23,7 @@ wsjgainers.csv: wsjgainers.html
 lint:
 	. env/bin/activate; pylint bin/my_normalizer.py
 
-test:
+test: lint
 	. env/bin/activate; pytest -vv tests/
 
 linttest: lint test

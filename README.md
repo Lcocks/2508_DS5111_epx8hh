@@ -34,7 +34,7 @@ Then run the script with `bash init.sh` then run `bash init_git_creds.sh` from w
 
 If all went well, you should be able to execute `tree` and instead of an error see the name of the init.sh script.
 
-Navigate out of scripts and test makefile is working so type `make` which should refelct the contents of the file. `make update` will run the update section of the makefile and the requirements.txt file.
+Navigate out of scripts and test makefile is working so type `make` which should reflect the contents of the file. `make update` will run the update section of the makefile and the requirements.txt file.
 
 Finally check the python environment is working use `. env/bin/activate`, this activates the new virtual environment, you should see an (env) on the left of the prompt.
 
@@ -144,7 +144,7 @@ At this point your GitHub account and your directory should be linked and authen
 ### Badge for Successful Testing
 
 1. [![Feature Validation](https://github.com/Lcocks/2508_DS5111_epx8hh/actions/workflows/validations.yml/badge.svg)](https://github.com/Lcocks/2508_DS5111_epx8hh/actions/workflows/validations.yml)
-2. [![CI](https://github.com/Lcocks/2508_DS5111_epx8hh/actions/workflows/basic.yml/badge.svg?branch=patch-1)](https://github.com/Lcocks/2508_DS5111_epx8hh/actions/workflows/basic.yml)
+2. [![CI](https://github.com/Lcocks/2508_DS5111_epx8hh/actions/workflows/basic.yml/badge.svg)](https://github.com/Lcocks/2508_DS5111_epx8hh/actions/workflows/basic.yml)
 
 
    
