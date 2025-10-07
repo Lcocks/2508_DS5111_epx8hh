@@ -106,6 +106,21 @@ In this you will find 2 file names including `validations.yml` & `basic.yml` of 
 
 The success of a passing action can be captued as a 'badge' and displayed (commonly in your README): please see Appendix A - Badge for Successful Testing.
 
+Step 7: Cronjobs and Testing
+
+The `my_normalizer.py` file should have a try/except calling under MAIN. This ensure that the make commands continue even if ygainers.csv or wsjgainers.csv is not available.
+
+In the terminal `crontab -e` will open the crontab editor which placing the following information in, will assist with how to create a job (see [Additional Resources](#additional-resources))
+
+	Here is an example of a job `31 9 * * 1-5 cd 2508_DS5111_epx8hh/; make clean; make wsjgainers_tstamp; make clean;`
+	The current jobs follow this format:
+		Every weekday, i.e. Monday thru Friday (stock markets are not open on weekdays, at least regular hours) && Three times a day, at 9:31am EST, at 12:30pm EST and at 4:01 EST.
+	These are also available in the `data-collection-cron-jobs.sh` for viewing in github.
+
+You can test the implementation by using `make wsjgaines_tstamp` or `make ygainers_tstamp`. This should show an outputting normalized data file of the data source. `make clean` will wipe any of the non-custom named files.
+
+	To stop the cronjobs from running just comment them out in the crontab editor.
+
 
 ## Appendix A
 
@@ -151,7 +166,8 @@ At this point your GitHub account and your directory should be linked and authen
 
 ### Additional Resources
 
-- [Resource 1](url): Brief description
+- [Cronjobs and their usage](https://cronitor.io/guides/cron-jobs): Main website for Cronjobs related information.
+- 
 
 ### Troubleshooting
 
