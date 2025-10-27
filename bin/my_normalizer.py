@@ -75,5 +75,16 @@ def normalize_wsj(df):
 if __name__ == "__main__":
 
     # Find and read the CSV files from anywhere in current directory tree
-    normalize_yahoo(pd.read_csv('../ygainers.csv', index_col=0))
-    normalize_wsj(pd.read_csv('../wsjgainers.csv', index_col=0))
+    try:
+        normalize_yahoo(pd.read_csv('../ygainers.csv', index_col=0))
+    except FileNotFoundError:
+        print("Warning: ygainers.csv not found, skipping...")
+    except (pd.errors.EmptyDataError, pd.errors.ParserError, ValueError) as e:
+        print(f"Error processing ygainers.csv: {e}")
+
+    try:
+        normalize_wsj(pd.read_csv('../wsjgainers.csv', index_col=0))
+    except FileNotFoundError:
+        print("Warning: wsjgainers.csv not found, skipping...")
+    except (pd.errors.EmptyDataError, pd.errors.ParserError, ValueError) as e:
+        print(f"Error processing wsjgainers.csv: {e}")
