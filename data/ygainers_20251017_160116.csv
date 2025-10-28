@@ -1,56 +1,56 @@
-symbol,company_name,price,change,perc_change,volume
-LBRT,Liberty Energy Inc.,15.32,3.39,28.35,26.1M
-IRON,"Disc Medicine, Inc.",89.94,15.58,20.95,2.2M
-PRAX,"Praxis Precision Medicines, Inc.",189.99,27.28,16.77,4.4M
-RVMD,"Revolution Medicines, Inc.",54.10,4.42,8.90,4.6M
-KVUE,Kenvue Inc.,15.30,1.19,8.43,48.8M
-CRML,Critical Metals Corp.,20.86,1.44,7.42,36.7M
-AXP,American Express Company,346.68,23.57,7.29,6.4M
-SKY,"Champion Homes, Inc.",75.70,4.86,6.86,1.3M
-KEP,Korea Electric Power Corporation,15.30,0.93,6.44,739626.0M
-JEF,Jefferies Financial Group Inc.,51.71,2.91,5.96,6.8M
-ZION,"Zions Bancorporation, National Association",49.67,2.74,5.84,8.9M
-CNS,"Cohen & Steers, Inc.",69.59,3.79,5.76,519276.0M
-APPF,"AppFolio, Inc.",235.51,12.2,5.46,435174.0M
-EBC,"Eastern Bankshares, Inc.",18.17,0.95,5.52,5.4M
-CRDO,Credo Technology Group Holding Ltd,143.61,7.08,5.19,6.1M
-IDYA,"IDEAYA Biosciences, Inc.",29.26,1.57,5.67,3.6M
-ZGN,Ermenegildo Zegna N.V.,10.44,0.44,4.35,982390.0M
-GAP,"The Gap, Inc.",21.60,0.95,4.62,10.8M
-FUTU,Futu Holdings Limited,163.53,6.93,4.43,3.5M
-ELAN,Elanco Animal Health Incorporated,21.42,0.9,4.39,4.3M
-AKO-B,Embotelladora Andina S.A.,24.65,1.04,4.40,17755.0M
-CHDN,Churchill Downs Incorporated,90.53,3.78,4.36,876368.0M
-ATEC,"Alphatec Holdings, Inc.",14.89,0.63,4.42,2.2M
-WING,Wingstop Inc.,257.04,10.77,4.37,876640.0M
-PRM,"Perimeter Solutions, Inc.",22.92,0.93,4.23,1.5M
-GILD,"Gilead Sciences, Inc.",122.81,4.96,4.21,14.6M
-EL,The Estée Lauder Companies Inc.,100.80,4.0,4.13,3.8M
-COF,Capital One Financial Corporation,211.31,8.16,4.02,3.9M
-KMPR,Kemper Corporation,49.25,1.9,4.01,1.2M
-TOWN,TowneBank,33.76,1.25,3.84,639296.0M
-WTM,"White Mountains Insurance Group, Ltd.","1,916.99",69.32,3.75,30044.0M
-TFC,Truist Financial Corporation,42.62,1.53,3.72,17.7M
-CMC,Commercial Metals Company,57.40,2.06,3.71,2.3M
-BHFAP,"Brighthouse Financial, Inc.",16.21,0.56,3.58,118877.0M
-TFX,Teleflex Incorporated,128.13,4.25,3.43,516103.0M
-HDB,HDFC Bank Limited,36.74,1.3,3.67,4.3M
-DJTWW,Trump Media & Technology Group Corp.,7.28,0.24,3.42,47544.0M
-ALLY,Ally Financial Inc.,39.81,1.36,3.54,8.2M
-FCNCA,"First Citizens BancShares, Inc.","1,695.00",56.32,3.44,139363.0M
-APGE,"Apogee Therapeutics, Inc.",55.15,1.75,3.28,1.0M
-STNG,Scorpio Tankers Inc.,57.49,1.76,3.16,833973.0M
-INSW,"International Seaways, Inc.",46.15,1.44,3.22,374017.0M
-FI,"Fiserv, Inc.",121.65,3.65,3.09,3.6M
-STLA,Stellantis N.V.,10.56,0.33,3.18,20.9M
-FNB,F.N.B. Corporation,15.09,0.44,2.97,20.3M
-AUB,Atlantic Union Bankshares Corporation,33.93,1.02,3.10,889149.0M
-CUBI,"Customers Bancorp, Inc.",62.45,1.93,3.19,300237.0M
-HLN,Haleon plc,9.48,0.28,2.99,8.2M
-GHC,Graham Holdings Company,979.24,29.4,3.10,45194.0M
-WAL,Western Alliance Bancorporation,72.51,2.19,3.11,3.3M
-FDS,FactSet Research Systems Inc.,286.64,8.63,3.10,680530.0M
-BHF,"Brighthouse Financial, Inc.",46.54,1.4,3.10,2.3M
-LRN,"Stride, Inc.",145.00,4.32,3.07,490111.0M
-CACC,Credit Acceptance Corporation,491.32,15.56,3.27,117304.0M
-LTH,"Life Time Group Holdings, Inc.",25.70,0.78,3.15,3.4M
+company_name,price,change,perc_change,volume
+Liberty Energy Inc.,15.32,3.39,28.35,26.1M
+"Disc Medicine, Inc.",89.94,15.58,20.95,2.2M
+"Praxis Precision Medicines, Inc.",189.99,27.28,16.77,4.4M
+"Revolution Medicines, Inc.",54.10,4.42,8.9,4.6M
+Kenvue Inc.,15.30,1.19,8.43,48.8M
+Critical Metals Corp.,20.86,1.44,7.42,36.7M
+American Express Company,346.68,23.57,7.29,6.4M
+"Champion Homes, Inc.",75.70,4.86,6.86,1.3M
+Korea Electric Power Corporation,15.30,0.93,6.44,0.739626M
+Jefferies Financial Group Inc.,51.71,2.91,5.96,6.8M
+"Zions Bancorporation, National Association",49.67,2.74,5.84,8.9M
+"Cohen & Steers, Inc.",69.59,3.79,5.76,0.519276M
+"AppFolio, Inc.",235.51,12.2,5.46,0.435174M
+"Eastern Bankshares, Inc.",18.17,0.95,5.52,5.4M
+Credo Technology Group Holding Ltd,143.61,7.08,5.19,6.1M
+"IDEAYA Biosciences, Inc.",29.26,1.57,5.67,3.6M
+Ermenegildo Zegna N.V.,10.44,0.44,4.35,0.98239M
+"The Gap, Inc.",21.60,0.95,4.62,10.8M
+Futu Holdings Limited,163.53,6.93,4.43,3.5M
+Elanco Animal Health Incorporated,21.42,0.9,4.39,4.3M
+Embotelladora Andina S.A.,24.65,1.04,4.4,0.017755M
+Churchill Downs Incorporated,90.53,3.78,4.36,0.876368M
+"Alphatec Holdings, Inc.",14.89,0.63,4.42,2.2M
+Wingstop Inc.,257.04,10.77,4.37,0.87664M
+"Perimeter Solutions, Inc.",22.92,0.93,4.23,1.5M
+"Gilead Sciences, Inc.",122.81,4.96,4.21,14.6M
+The Estée Lauder Companies Inc.,100.80,4.0,4.13,3.8M
+Capital One Financial Corporation,211.31,8.16,4.02,3.9M
+Kemper Corporation,49.25,1.9,4.01,1.2M
+TowneBank,33.76,1.25,3.84,0.639296M
+"White Mountains Insurance Group, Ltd.","1,916.99",69.32,3.75,0.030044M
+Truist Financial Corporation,42.62,1.53,3.72,17.7M
+Commercial Metals Company,57.40,2.06,3.71,2.3M
+"Brighthouse Financial, Inc.",16.21,0.56,3.58,0.118877M
+Teleflex Incorporated,128.13,4.25,3.43,0.516103M
+HDFC Bank Limited,36.74,1.3,3.67,4.3M
+Trump Media & Technology Group Corp.,7.28,0.24,3.42,0.047544M
+Ally Financial Inc.,39.81,1.36,3.54,8.2M
+"First Citizens BancShares, Inc.","1,695.00",56.32,3.44,0.139363M
+"Apogee Therapeutics, Inc.",55.15,1.75,3.28,1.0M
+Scorpio Tankers Inc.,57.49,1.76,3.16,0.833973M
+"International Seaways, Inc.",46.15,1.44,3.22,0.374017M
+"Fiserv, Inc.",121.65,3.65,3.09,3.6M
+Stellantis N.V.,10.56,0.33,3.18,20.9M
+F.N.B. Corporation,15.09,0.44,2.97,20.3M
+Atlantic Union Bankshares Corporation,33.93,1.02,3.1,0.889149M
+"Customers Bancorp, Inc.",62.45,1.93,3.19,0.300237M
+Haleon plc,9.48,0.28,2.99,8.2M
+Graham Holdings Company,979.24,29.4,3.1,0.045194M
+Western Alliance Bancorporation,72.51,2.19,3.11,3.3M
+FactSet Research Systems Inc.,286.64,8.63,3.1,0.68053M
+"Brighthouse Financial, Inc.",46.54,1.4,3.1,2.3M
+"Stride, Inc.",145.00,4.32,3.07,0.490111M
+Credit Acceptance Corporation,491.32,15.56,3.27,0.117304M
+"Life Time Group Holdings, Inc.",25.70,0.78,3.15,3.4M

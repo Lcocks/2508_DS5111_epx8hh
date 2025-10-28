@@ -1,0 +1,179 @@
+symbol,company_name,price,change,perc_change,volume
+RNA,"Avidity Biosciences, Inc.",70.00,20.85,42.42,69.0M
+DYN,"Dyne Therapeutics, Inc.",24.17,7.05,41.18,12.3M
+BBAR,Banco BBVA Argentina S.A.,14.23,4.12,40.75,6.6M
+GGAL,Grupo Financiero Galicia S.A.,49.14,13.71,38.70,14.6M
+BMA,Banco Macro S.A.,79.11,21.63,37.63,3.5M
+TEO,Telecom Argentina S.A.,10.89,2.97,37.50,2.3M
+TGS,Transportadora de Gas del Sur S.A.,30.75,8.27,36.79,2.3M
+YPF,YPF Sociedad Anónima,33.36,6.41,23.78,15.4M
+PAM,Pampa Energía S.A.,77.49,14.87,23.75,2.1M
+VIST,"Vista Energy, S.A.B. de C.V.",47.50,7.47,18.66,8.0M
+CAAP,Corporación América Airports S.A.,21.62,3.18,17.25,0.569839M
+BBIO,"BridgeBio Pharma, Inc.",63.56,9.3,17.14,8.5M
+LUMN,"Lumen Technologies, Inc.",9.36,1.27,15.70,37.8M
+IMVT,"Immunovant, Inc.",21.43,2.49,13.15,2.5M
+DGNX,Diginex Limited,15.76,1.76,12.57,0.973575M
+LMND,"Lemonade, Inc.",58.45,6.31,12.10,3.1M
+JHG,Janus Henderson Group plc,46.35,4.72,11.34,6.9M
+QURE,uniQure N.V.,67.92,6.91,11.33,2.5M
+QCOM,QUALCOMM Incorporated,187.68,18.74,11.09,78.4M
+IDYA,"IDEAYA Biosciences, Inc.",32.37,3.19,10.93,1.8M
+AAOI,"Applied Optoelectronics, Inc.",37.22,3.21,9.44,5.1M
+CELC,Celcuity Inc.,77.51,6.54,9.22,1.9M
+GLNG,Golar LNG Limited,41.53,3.41,8.95,3.0M
+SYM,Symbotic Inc.,70.69,5.59,8.59,2.0M
+CRNX,"Crinetics Pharmaceuticals, Inc.",44.34,3.35,8.17,1.3M
+LITE,Lumentum Holdings Inc.,193.80,14.5,8.09,5.4M
+ASTS,"AST SpaceMobile, Inc.",79.45,5.75,7.80,9.8M
+RMBS,Rambus Inc.,113.61,8.19,7.77,3.8M
+KDP,Keurig Dr Pepper Inc.,29.23,2.07,7.62,52.2M
+RIOT,"Riot Platforms, Inc.",23.00,1.58,7.38,19.9M
+CDTX,"Cidara Therapeutics, Inc.",99.98,6.86,7.37,1.4M
+QBTS,D-Wave Quantum Inc.,35.04,2.39,7.32,61.4M
+AKO-B,Embotelladora Andina S.A.,25.85,1.72,7.13,0.04611M
+COGT,"Cogent Biosciences, Inc.",16.20,1.07,7.07,3.4M
+NBIS,Nebius Group N.V.,125.43,8.17,6.97,15.9M
+PRAX,"Praxis Precision Medicines, Inc.",185.94,11.97,6.88,0.898665M
+SMCI,"Super Micro Computer, Inc.",51.57,3.28,6.79,23.0M
+NTSK,"Netskope, Inc.",23.99,1.52,6.76,1.9M
+PPTA,Perpetua Resources Corp.,24.84,1.54,6.61,6.5M
+PONY,Pony AI Inc.,19.68,1.22,6.61,4.9M
+BMNR,"Bitmine Immersion Technologies, Inc.",53.71,3.3,6.55,31.7M
+XPEV,XPeng Inc.,23.02,1.4,6.48,12.5M
+RVMD,"Revolution Medicines, Inc.",57.99,3.51,6.44,3.3M
+OS,"OneStream, Inc.",19.14,1.15,6.39,1.7M
+EW,Edwards Lifesciences Corporation,80.82,4.72,6.20,13.1M
+TVTX,"Travere Therapeutics, Inc.",29.77,1.71,6.09,2.5M
+ABTC,American Bitcoin Corp,5.96,0.34,6.05,5.7M
+OLLI,"Ollie's Bargain Outlet Holdings, Inc.",124.21,7.08,6.04,1.1M
+APLS,"Apellis Pharmaceuticals, Inc.",29.78,1.61,5.72,2.2M
+BUR,Burford Capital Limited,11.29,0.6,5.61,2.8M
+MELI,"MercadoLibre, Inc.","2,282.32",121.21,5.61,0.58526M
+FCN,"FTI Consulting, Inc.",166.58,8.75,5.54,0.593978M
+PCVX,"Vaxcyte, Inc.",44.57,2.34,5.54,1.1M
+PATH,UiPath Inc.,17.39,0.91,5.52,28.0M
+ENLT,Enlight Renewable Energy Ltd,36.27,1.88,5.47,0.03855M
+APGE,"Apogee Therapeutics, Inc.",56.23,2.91,5.46,1.0M
+MRVL,"Marvell Technology, Inc.",88.71,4.58,5.44,13.0M
+CROX,"Crocs, Inc.",87.29,4.47,5.40,2.3M
+RARE,Ultragenyx Pharmaceutical Inc.,35.31,1.78,5.31,1.4M
+BROS,Dutch Bros Inc.,59.87,2.96,5.20,3.5M
+SLNO,"Soleno Therapeutics, Inc.",67.51,3.33,5.19,1.6M
+CCU,Compañía Cervecerías Unidas S.A.,13.03,0.64,5.17,0.171777M
+MATX,"Matson, Inc.",98.00,4.78,5.13,0.336789M
+VSCO,Victoria's Secret & Co.,34.87,1.7,5.13,2.3M
+U,Unity Software Inc.,39.17,1.88,5.04,6.9M
+ANF,Abercrombie & Fitch Co.,73.91,3.45,4.90,1.7M
+WRD,WeRide Inc.,11.16,0.52,4.89,6.2M
+CLF,Cleveland-Cliffs Inc.,13.77,0.64,4.87,27.8M
+BIDU,"Baidu, Inc.",128.66,5.9,4.81,5.0M
+GLOB,Globant S.A.,62.64,2.86,4.78,1.4M
+IRON,"Disc Medicine, Inc.",89.65,4.02,4.69,0.409509M
+HCA,"HCA Healthcare, Inc.",467.86,20.82,4.66,1.8M
+ARM,Arm Holdings plc,178.62,7.94,4.65,6.5M
+HSAI,Hesai Group,23.86,1.06,4.65,2.8M
+NUVL,"Nuvalent, Inc.",97.71,4.32,4.63,1.1M
+GRAB,Grab Holdings Limited,6.12,0.27,4.62,51.0M
+ABVX,ABIVAX Société Anonyme,94.84,4.08,4.50,1.2M
+HUT,Hut 8 Corp.,49.80,2.14,4.49,5.5M
+FIGR,"Figure Technology Solutions, Inc.",41.75,1.78,4.45,1.5M
+ACAD,ACADIA Pharmaceuticals Inc.,22.99,0.97,4.41,1.7M
+TIGO,Millicom International Cellular S.A.,49.46,2.08,4.39,0.733759M
+VKTX,"Viking Therapeutics, Inc.",35.93,1.51,4.39,3.9M
+PRKS,United Parks & Resorts Inc.,51.88,2.18,4.39,0.764502M
+CADE,Cadence Bank,38.09,1.6,4.38,31.4M
+COHR,Coherent Corp.,134.99,5.65,4.37,4.0M
+KAI,Kadant Inc.,303.71,12.7,4.36,0.190645M
+CLSK,"CleanSpark, Inc.",20.20,0.84,4.31,23.3M
+R,"Ryder System, Inc.",168.26,6.95,4.31,0.726905M
+RXRX,"Recursion Pharmaceuticals, Inc.",6.30,0.26,4.30,53.9M
+HOOD,"Robinhood Markets, Inc.",145.86,6.01,4.30,22.4M
+KNSA,"Kiniksa Pharmaceuticals International, plc",40.60,1.67,4.29,0.534716M
+TSLA,"Tesla, Inc.",452.29,18.57,4.28,99.8M
+TSEM,Tower Semiconductor Ltd.,79.00,3.23,4.26,1.2M
+SMTC,Semtech Corporation,70.66,2.87,4.23,1.5M
+VNET,"VNET Group, Inc.",10.02,0.4,4.16,4.4M
+IONQ,"IonQ, Inc.",62.80,2.5,4.15,23.8M
+ARLP,"Alliance Resource Partners, L.P.",24.00,0.95,4.12,0.537609M
+CYTK,"Cytokinetics, Incorporated",60.18,2.35,4.06,1.2M
+DECK,Deckers Outdoor Corporation,90.47,3.53,4.06,8.9M
+W,Wayfair Inc.,86.45,3.36,4.04,6.0M
+KC,Kingsoft Cloud Holdings Limited,13.39,0.52,4.04,1.4M
+RH,RH,188.23,7.27,4.02,0.961282M
+FUN,Six Flags Entertainment Corporation,26.74,1.03,4.01,4.1M
+AXSM,"Axsome Therapeutics, Inc.",134.68,5.13,3.96,0.392279M
+BTDR,Bitdeer Technologies Group,24.16,0.92,3.96,4.6M
+NCNO,"nCino, Inc.",27.10,1.03,3.95,1.6M
+NUE,Nucor Corporation,144.16,5.46,3.94,2.2M
+MTSI,"MACOM Technology Solutions Holdings, Inc.",146.39,5.54,3.93,0.966911M
+KYMR,"Kymera Therapeutics, Inc.",60.85,2.29,3.91,0.532186M
+ARWR,"Arrowhead Pharmaceuticals, Inc.",39.48,1.48,3.89,1.6M
+PRCT,PROCEPT BioRobotics Corporation,36.35,1.36,3.89,1.5M
+ON,ON Semiconductor Corporation,52.68,1.97,3.88,7.4M
+SIMO,Silicon Motion Technology Corporation,102.97,3.84,3.87,0.631335M
+PAGS,PagSeguro Digital Ltd.,9.95,0.37,3.86,4.7M
+CE,Celanese Corporation,43.84,1.63,3.86,1.6M
+BLSH,Bullish,56.31,2.09,3.85,1.4M
+RGC,Regencell Bioscience Holdings Limited,16.51,0.61,3.84,0.129302M
+MUSA,Murphy USA Inc.,394.02,14.52,3.83,0.459718M
+BL,"BlackLine, Inc.",54.56,2.0,3.81,6.6M
+PINS,"Pinterest, Inc.",35.24,1.27,3.74,7.1M
+ASO,"Academy Sports and Outdoors, Inc.",49.48,1.78,3.73,1.7M
+APP,AppLovin Corporation,643.10,23.1,3.73,3.3M
+TGT,Target Corporation,97.77,3.51,3.72,8.2M
+DOW,Dow Inc.,25.73,0.92,3.71,17.7M
+TEX,Terex Corporation,58.48,2.09,3.71,1.3M
+LNTH,"Lantheus Holdings, Inc.",58.13,2.07,3.69,1.3M
+TS,Tenaris S.A.,37.11,1.32,3.69,1.3M
+VRT,Vertiv Holdings Co,192.90,6.84,3.68,5.7M
+SOFI,"SoFi Technologies, Inc.",30.08,1.07,3.67,75.3M
+TX,Ternium S.A.,37.46,1.31,3.62,0.386303M
+GOOG,Alphabet Inc.,269.93,9.42,3.62,18.6M
+FOX,Fox Corporation,54.81,1.91,3.61,0.85563M
+RGTI,"Rigetti Computing, Inc.",40.24,1.4,3.60,68.5M
+GOOGL,Alphabet Inc.,269.27,9.35,3.60,29.8M
+OUST,"Ouster, Inc.",37.08,1.28,3.58,3.1M
+DLTR,"Dollar Tree, Inc.",102.59,3.54,3.57,3.6M
+VTMX,"Corporación Inmobiliaria Vesta, S.A.B. de C.V.",29.79,1.02,3.55,0.135853M
+TME,Tencent Music Entertainment Group,23.71,0.81,3.54,5.0M
+M,"Macy's, Inc.",19.38,0.66,3.53,6.1M
+SE,Sea Limited,160.10,5.44,3.52,3.6M
+INOD,Innodata Inc.,79.34,2.69,3.51,1.3M
+TEVA,Teva Pharmaceutical Industries Limited,19.61,0.66,3.48,8.7M
+LSCC,Lattice Semiconductor Corporation,71.53,2.38,3.44,1.0M
+LRCX,Lam Research Corporation,156.90,5.22,3.44,13.3M
+MTN,"Vail Resorts, Inc.",157.90,5.25,3.44,0.682867M
+KLAR,Klarna Group plc,39.73,1.32,3.44,2.2M
+NBIX,"Neurocrine Biosciences, Inc.",148.94,4.94,3.43,0.847002M
+MDGL,"Madrigal Pharmaceuticals, Inc.",435.78,14.28,3.39,0.221391M
+NET,"Cloudflare, Inc.",225.11,7.26,3.33,1.8M
+IREN,IREN Limited,64.99,2.09,3.32,32.2M
+LTH,"Life Time Group Holdings, Inc.",26.77,0.86,3.32,2.1M
+COCO,"The Vita Coco Company, Inc.",40.98,1.32,3.32,0.800599M
+STLD,"Steel Dynamics, Inc.",158.02,5.07,3.31,1.7M
+RIVN,"Rivian Automotive, Inc.",13.41,0.43,3.31,46.2M
+INTC,Intel Corporation,39.54,1.26,3.29,143.8M
+EXEL,"Exelixis, Inc.",39.99,1.27,3.28,1.8M
+ALNY,"Alnylam Pharmaceuticals, Inc.",478.58,15.15,3.27,0.986201M
+SITM,SiTime Corporation,276.80,8.69,3.24,0.206667M
+ROIV,Roivant Sciences Ltd.,18.81,0.59,3.24,10.7M
+AAP,"Advance Auto Parts, Inc.",56.32,1.76,3.23,1.1M
+ALAB,"Astera Labs, Inc.",170.28,5.31,3.22,3.4M
+MAT,"Mattel, Inc.",19.04,0.59,3.20,3.8M
+LVS,Las Vegas Sands Corp.,59.44,1.84,3.19,6.5M
+TARS,"Tarsus Pharmaceuticals, Inc.",68.17,2.11,3.19,0.289898M
+FOXA,Fox Corporation,61.27,1.89,3.18,2.6M
+LYB,LyondellBasell Industries N.V.,49.09,1.5,3.15,3.9M
+FRPT,"Freshpet, Inc.",55.82,1.7,3.14,0.85706M
+LEVI,Levi Strauss & Co.,21.42,0.65,3.13,2.9M
+LIF,"Life360, Inc.",97.86,2.96,3.12,0.394564M
+SNOW,Snowflake Inc.,265.97,8.03,3.11,4.5M
+TTD,"The Trade Desk, Inc.",53.61,1.61,3.10,7.3M
+AORT,"Artivion, Inc.",44.74,1.34,3.09,0.454536M
+ENTG,"Entegris, Inc.",94.32,2.8,3.06,1.2M
+TIMB,TIM S.A.,23.33,0.69,3.05,0.421825M
+JD,"JD.com, Inc.",34.20,1.01,3.04,10.1M
+SRPT,"Sarepta Therapeutics, Inc.",23.50,0.69,3.02,4.0M
+IONS,"Ionis Pharmaceuticals, Inc.",72.99,2.13,3.01,1.6M
+SLM,SLM Corporation,28.45,0.83,3.01,2.8M

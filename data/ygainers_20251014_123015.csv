@@ -1,131 +1,131 @@
-symbol,company_name,price,change,perc_change,volume
-NVTS,Navitas Semiconductor Corporation,12.61,2.64,26.48,98.2M
-CRML,Critical Metals Corp.,29.38,6.1,26.20,60.6M
-ERIC,Telefonaktiebolaget LM Ericsson (publ),9.77,1.6,19.65,44.6M
-FLNC,"Fluence Energy, Inc.",18.64,2.75,17.31,8.9M
-ORLA,Orla Mining Ltd.,13.59,2.1,18.23,7.5M
-DBRG,"DigitalBridge Group, Inc.",13.43,1.78,15.28,5.8M
-ALM,Almonty Industries Inc.,9.80,1.16,13.43,4.9M
-PII,Polaris Inc.,69.31,7.95,12.96,2.4M
-ACI,"Albertsons Companies, Inc.",18.91,1.96,11.56,13.0M
-WULF,TeraWulf Inc.,15.41,1.41,10.07,40.8M
-APLD,Applied Digital Corporation,37.48,3.24,9.45,29.0M
-MARA,"MARA Holdings, Inc.",22.18,1.94,9.59,37.9M
-UUUU,Energy Fuels Inc.,26.04,2.27,9.55,41.1M
-LAC,Lithium Americas Corp.,9.19,0.76,8.95,84.2M
-UI,Ubiquiti Inc.,743.62,56.77,8.27,152794.0M
-BITF,Bitfarms Ltd.,5.83,0.44,8.16,138.0M
-VOYG,"Voyager Technologies, Inc.",35.23,2.49,7.62,516203.0M
-PGY,Pagaya Technologies Ltd.,30.10,2.13,7.62,3.6M
-ASTS,"AST SpaceMobile, Inc.",97.54,7.04,7.78,8.4M
-ALVO,Alvotech,8.55,0.58,7.28,355181.0M
-KEP,Korea Electric Power Corporation,13.59,0.89,7.01,347229.0M
-POWI,"Power Integrations, Inc.",46.17,3.02,7.00,3.4M
-WFC,Wells Fargo & Company,84.49,5.57,7.06,18.3M
-RBLX,Roblox Corporation,137.07,8.83,6.89,4.8M
-SOUN,"SoundHound AI, Inc.",20.43,1.29,6.74,36.6M
-CLSK,"CleanSpark, Inc.",21.38,1.34,6.68,29.8M
-BTU,Peabody Energy Corporation,35.60,2.18,6.52,3.8M
-ZGN,Ermenegildo Zegna N.V.,9.31,0.55,6.34,886726.0M
-DLO,DLocal Limited,15.19,0.99,6.97,2.8M
-ALLY,Ally Financial Inc.,40.16,2.29,6.05,2.4M
-NXE,NexGen Energy Ltd.,9.51,0.53,5.90,7.9M
-CAR,"Avis Budget Group, Inc.",158.37,8.89,5.95,236367.0M
-DRVN,Driven Brands Holdings Inc.,16.01,0.88,5.82,659857.0M
-VSAT,"Viasat, Inc.",36.65,1.95,5.61,986689.0M
-IREN,IREN Limited,67.85,3.71,5.78,27.6M
-SYM,Symbotic Inc.,74.28,3.77,5.35,1.5M
-JOBY,"Joby Aviation, Inc.",17.65,0.88,5.24,27.5M
-RSI,"Rush Street Interactive, Inc.",19.89,0.99,5.21,506136.0M
-HTFL,"Heartflow, Inc.",35.03,1.81,5.45,134577.0M
-RYTM,"Rhythm Pharmaceuticals, Inc.",105.59,4.82,4.78,267438.0M
-RKLB,Rocket Lab Corporation,68.83,3.41,5.21,14.9M
-ADMA,"ADMA Biologics, Inc.",15.28,0.73,5.02,1.6M
-SAH,"Sonic Automotive, Inc.",75.50,3.64,5.07,53774.0M
-TOST,"Toast, Inc.",37.62,1.78,4.97,4.0M
-YETI,"YETI Holdings, Inc.",33.75,1.55,4.81,501252.0M
-ARX,Accelerant Holdings,14.69,0.64,4.59,400962.0M
-OWL,Blue Owl Capital Inc.,16.88,0.75,4.69,5.1M
-NBTB,NBT Bancorp Inc.,41.51,1.85,4.68,93672.0M
-AMSC,American Superconductor Corporation,64.40,2.83,4.60,749391.0M
-DAVE,Dave Inc.,211.71,9.28,4.58,233647.0M
-OMF,"OneMain Holdings, Inc.",55.66,2.4,4.51,315627.0M
-DOCN,"DigitalOcean Holdings, Inc.",41.03,1.5,3.79,2.5M
-CAT,Caterpillar Inc.,527.67,22.91,4.54,2.2M
-CAMT,Camtek Ltd.,124.44,5.47,4.60,244661.0M
-UAMY,United States Antimony Corporation,18.27,1.56,9.34,39.4M
-SLM,SLM Corporation,26.63,1.13,4.43,1.4M
-EEFT,"Euronet Worldwide, Inc.",86.61,3.58,4.32,442115.0M
-HCI,"HCI Group, Inc.",196.30,8.21,4.36,73394.0M
-NOK,Nokia Oyj,5.47,0.22,4.29,27.9M
-LTM,LATAM Airlines Group S.A.,43.88,1.8,4.28,371570.0M
-PBF,PBF Energy Inc.,30.34,1.23,4.24,646325.0M
-ABNB,"Airbnb, Inc.",123.83,4.97,4.19,2.7M
-DPZ,"Domino's Pizza, Inc.",425.62,17.36,4.25,854253.0M
-RUM,Rumble Inc.,8.16,0.32,4.15,1.5M
-CPA,"Copa Holdings, S.A.",127.90,5.12,4.17,82797.0M
-KKR,KKR & Co. Inc.,125.37,4.93,4.09,2.7M
-DAL,"Delta Air Lines, Inc.",61.05,2.33,3.97,4.3M
-BLDR,"Builders FirstSource, Inc.",125.50,4.79,3.97,956580.0M
-HPQ,HP Inc.,28.43,1.08,3.97,8.4M
-SFM,"Sprouts Farmers Market, Inc.",110.76,4.17,3.91,1.4M
-SYF,Synchrony Financial,72.95,2.81,4.01,2.4M
-FRPT,"Freshpet, Inc.",50.31,1.9,3.94,616339.0M
-HRI,Herc Holdings Inc.,124.94,4.25,3.51,117863.0M
-LUV,Southwest Airlines Co.,33.15,1.25,3.90,3.1M
-WMT,Walmart Inc.,106.09,3.97,3.89,12.6M
-TBBB,BBB Foods Inc.,26.40,0.98,3.84,322884.0M
-AX,"Axos Financial, Inc.",84.00,3.12,3.86,63309.0M
-BFH,"Bread Financial Holdings, Inc.",58.57,2.15,3.81,246233.0M
-RIOT,"Riot Platforms, Inc.",22.50,0.8,3.69,11.3M
-MGM,MGM Resorts International,32.78,1.21,3.83,2.1M
-TLX,Telix Pharmaceuticals Limited,9.90,0.36,3.77,67143.0M
-QBTS,D-Wave Quantum Inc.,42.17,1.55,3.81,32.3M
-OKLO,Oklo Inc.,177.14,6.13,3.58,13.1M
-IBP,"Installed Building Products, Inc.",249.48,9.16,3.81,102628.0M
-STVN,Stevanato Group S.p.A.,24.17,0.86,3.67,60926.0M
-UAL,"United Airlines Holdings, Inc.",102.83,3.58,3.61,2.4M
-ULS,UL Solutions Inc.,75.00,2.64,3.65,190957.0M
-ARES,Ares Management Corporation,148.86,5.23,3.64,1.1M
-SARO,"StandardAero, Inc.",28.50,0.99,3.60,892609.0M
-KMPR,Kemper Corporation,49.84,1.73,3.60,531105.0M
-ERO,Ero Copper Corp.,23.54,0.83,3.65,1.2M
-PTRN,Pattern Group Inc.,14.46,0.49,3.51,455062.0M
-ENPH,"Enphase Energy, Inc.",36.08,1.26,3.61,2.3M
-RXO,"RXO, Inc.",16.92,0.58,3.55,534733.0M
-PINS,"Pinterest, Inc.",33.40,1.13,3.49,8.8M
-BBAI,"BigBear.ai Holdings, Inc.",9.12,0.31,3.58,115.4M
-APO,"Apollo Global Management, Inc.",126.58,4.14,3.38,1.9M
-OPEN,Opendoor Technologies Inc.,7.53,0.26,3.51,62.2M
-WYNN,"Wynn Resorts, Limited",116.40,3.88,3.45,557642.0M
-BC,Brunswick Corporation,62.46,2.2,3.64,135566.0M
-C,Citigroup Inc.,99.56,3.46,3.60,14.8M
-LVS,Las Vegas Sands Corp.,48.05,1.58,3.40,2.9M
-CHA,Chagee Holdings Limited,16.64,0.54,3.35,515384.0M
-PRIM,Primoris Services Corporation,141.08,4.6,3.37,263055.0M
-OSCR,"Oscar Health, Inc.",21.05,0.65,3.19,11.9M
-DK,"Delek US Holdings, Inc.",35.22,1.13,3.31,378554.0M
-VIK,Viking Holdings Ltd,61.24,1.94,3.27,644726.0M
-INDV,Indivior PLC,24.69,0.82,3.44,854886.0M
-AAON,"AAON, Inc.",105.29,3.33,3.27,183881.0M
-Z,"Zillow Group, Inc.",72.05,2.29,3.28,875166.0M
-ARM,Arm Holdings plc,177.34,5.4,3.14,8.0M
-COF,Capital One Financial Corporation,214.47,6.86,3.30,1.7M
-GRBK,"Green Brick Partners, Inc.",64.86,2.02,3.22,87904.0M
-AMD,"Advanced Micro Devices, Inc.",223.66,7.24,3.35,44.7M
-ZG,"Zillow Group, Inc.",69.11,2.14,3.20,214897.0M
-PCG,PG&E Corporation,16.47,0.49,3.10,13.6M
-PCT,"PureCycle Technologies, Inc.",13.60,0.43,3.26,2.1M
-SGRY,"Surgery Partners, Inc.",20.42,0.63,3.18,331944.0M
-BHF,"Brighthouse Financial, Inc.",49.54,1.5,3.12,254217.0M
-PAY,"Paymentus Holdings, Inc.",29.51,0.86,3.00,324475.0M
-EXK,Endeavour Silver Corp.,8.77,0.27,3.24,10.4M
-TBBK,"The Bancorp, Inc.",78.75,2.39,3.12,121229.0M
-EIX,Edison International,55.30,1.65,3.08,1.2M
-SVV,"Savers Value Village, Inc.",13.17,0.4,3.13,293578.0M
-FUN,Six Flags Entertainment Corporation,21.22,0.62,3.01,683362.0M
-TEAM,Atlassian Corporation,154.03,4.64,3.11,1.6M
-CCJ,Cameco Corporation,95.04,2.89,3.14,3.8M
-ENVA,"Enova International, Inc.",109.21,3.23,3.05,53530.0M
-HUBG,"Hub Group, Inc.",34.69,1.02,3.01,142233.0M
-UEC,Uranium Energy Corp.,15.96,0.64,4.18,11.4M
+company_name,price,change,perc_change,volume
+Navitas Semiconductor Corporation,12.61,2.64,26.48,98.2M
+Critical Metals Corp.,29.38,6.1,26.2,60.6M
+Telefonaktiebolaget LM Ericsson (publ),9.77,1.6,19.65,44.6M
+"Fluence Energy, Inc.",18.64,2.75,17.31,8.9M
+Orla Mining Ltd.,13.59,2.1,18.23,7.5M
+"DigitalBridge Group, Inc.",13.43,1.78,15.28,5.8M
+Almonty Industries Inc.,9.8,1.16,13.43,4.9M
+Polaris Inc.,69.31,7.95,12.96,2.4M
+"Albertsons Companies, Inc.",18.91,1.96,11.56,13.0M
+TeraWulf Inc.,15.41,1.41,10.07,40.8M
+Applied Digital Corporation,37.48,3.24,9.45,29.0M
+"MARA Holdings, Inc.",22.18,1.94,9.59,37.9M
+Energy Fuels Inc.,26.04,2.27,9.55,41.1M
+Lithium Americas Corp.,9.19,0.76,8.95,84.2M
+Ubiquiti Inc.,743.62,56.77,8.27,0.152794M
+Bitfarms Ltd.,5.83,0.44,8.16,138.0M
+"Voyager Technologies, Inc.",35.23,2.49,7.62,0.516203M
+Pagaya Technologies Ltd.,30.1,2.13,7.62,3.6M
+"AST SpaceMobile, Inc.",97.54,7.04,7.78,8.4M
+Alvotech,8.55,0.58,7.28,0.355181M
+Korea Electric Power Corporation,13.59,0.89,7.01,0.347229M
+"Power Integrations, Inc.",46.17,3.02,7.0,3.4M
+Wells Fargo & Company,84.49,5.57,7.06,18.3M
+Roblox Corporation,137.07,8.83,6.89,4.8M
+"SoundHound AI, Inc.",20.43,1.29,6.74,36.6M
+"CleanSpark, Inc.",21.38,1.34,6.68,29.8M
+Peabody Energy Corporation,35.6,2.18,6.52,3.8M
+Ermenegildo Zegna N.V.,9.31,0.55,6.34,0.886726M
+DLocal Limited,15.19,0.99,6.97,2.8M
+Ally Financial Inc.,40.16,2.29,6.05,2.4M
+NexGen Energy Ltd.,9.51,0.53,5.9,7.9M
+"Avis Budget Group, Inc.",158.37,8.89,5.95,0.236367M
+Driven Brands Holdings Inc.,16.01,0.88,5.82,0.659857M
+"Viasat, Inc.",36.65,1.95,5.61,0.986689M
+IREN Limited,67.85,3.71,5.78,27.6M
+Symbotic Inc.,74.28,3.77,5.35,1.5M
+"Joby Aviation, Inc.",17.65,0.88,5.24,27.5M
+"Rush Street Interactive, Inc.",19.89,0.99,5.21,0.506136M
+"Heartflow, Inc.",35.03,1.81,5.45,0.134577M
+"Rhythm Pharmaceuticals, Inc.",105.59,4.82,4.78,0.267438M
+Rocket Lab Corporation,68.83,3.41,5.21,14.9M
+"ADMA Biologics, Inc.",15.28,0.73,5.02,1.6M
+"Sonic Automotive, Inc.",75.5,3.64,5.07,0.053774M
+"Toast, Inc.",37.62,1.78,4.97,4.0M
+"YETI Holdings, Inc.",33.75,1.55,4.81,0.501252M
+Accelerant Holdings,14.69,0.64,4.59,0.400962M
+Blue Owl Capital Inc.,16.88,0.75,4.69,5.1M
+NBT Bancorp Inc.,41.51,1.85,4.68,0.093672M
+American Superconductor Corporation,64.4,2.83,4.6,0.749391M
+Dave Inc.,211.71,9.28,4.58,0.233647M
+"OneMain Holdings, Inc.",55.66,2.4,4.51,0.315627M
+"DigitalOcean Holdings, Inc.",41.03,1.5,3.79,2.5M
+Caterpillar Inc.,527.67,22.91,4.54,2.2M
+Camtek Ltd.,124.44,5.47,4.6,0.244661M
+United States Antimony Corporation,18.27,1.56,9.34,39.4M
+SLM Corporation,26.63,1.13,4.43,1.4M
+"Euronet Worldwide, Inc.",86.61,3.58,4.32,0.442115M
+"HCI Group, Inc.",196.3,8.21,4.36,0.073394M
+Nokia Oyj,5.47,0.22,4.29,27.9M
+LATAM Airlines Group S.A.,43.88,1.8,4.28,0.37157M
+PBF Energy Inc.,30.34,1.23,4.24,0.646325M
+"Airbnb, Inc.",123.83,4.97,4.19,2.7M
+"Domino's Pizza, Inc.",425.62,17.36,4.25,0.854253M
+Rumble Inc.,8.16,0.32,4.15,1.5M
+"Copa Holdings, S.A.",127.9,5.12,4.17,0.082797M
+KKR & Co. Inc.,125.37,4.93,4.09,2.7M
+"Delta Air Lines, Inc.",61.05,2.33,3.97,4.3M
+"Builders FirstSource, Inc.",125.5,4.79,3.97,0.95658M
+HP Inc.,28.43,1.08,3.97,8.4M
+"Sprouts Farmers Market, Inc.",110.76,4.17,3.91,1.4M
+Synchrony Financial,72.95,2.81,4.01,2.4M
+"Freshpet, Inc.",50.31,1.9,3.94,0.616339M
+Herc Holdings Inc.,124.94,4.25,3.51,0.117863M
+Southwest Airlines Co.,33.15,1.25,3.9,3.1M
+Walmart Inc.,106.09,3.97,3.89,12.6M
+BBB Foods Inc.,26.4,0.98,3.84,0.322884M
+"Axos Financial, Inc.",84.0,3.12,3.86,0.063309M
+"Bread Financial Holdings, Inc.",58.57,2.15,3.81,0.246233M
+"Riot Platforms, Inc.",22.5,0.8,3.69,11.3M
+MGM Resorts International,32.78,1.21,3.83,2.1M
+Telix Pharmaceuticals Limited,9.9,0.36,3.77,0.067143M
+D-Wave Quantum Inc.,42.17,1.55,3.81,32.3M
+Oklo Inc.,177.14,6.13,3.58,13.1M
+"Installed Building Products, Inc.",249.48,9.16,3.81,0.102628M
+Stevanato Group S.p.A.,24.17,0.86,3.67,0.060926M
+"United Airlines Holdings, Inc.",102.83,3.58,3.61,2.4M
+UL Solutions Inc.,75.0,2.64,3.65,0.190957M
+Ares Management Corporation,148.86,5.23,3.64,1.1M
+"StandardAero, Inc.",28.5,0.99,3.6,0.892609M
+Kemper Corporation,49.84,1.73,3.6,0.531105M
+Ero Copper Corp.,23.54,0.83,3.65,1.2M
+Pattern Group Inc.,14.46,0.49,3.51,0.455062M
+"Enphase Energy, Inc.",36.08,1.26,3.61,2.3M
+"RXO, Inc.",16.92,0.58,3.55,0.534733M
+"Pinterest, Inc.",33.4,1.13,3.49,8.8M
+"BigBear.ai Holdings, Inc.",9.12,0.31,3.58,115.4M
+"Apollo Global Management, Inc.",126.58,4.14,3.38,1.9M
+Opendoor Technologies Inc.,7.53,0.26,3.51,62.2M
+"Wynn Resorts, Limited",116.4,3.88,3.45,0.557642M
+Brunswick Corporation,62.46,2.2,3.64,0.135566M
+Citigroup Inc.,99.56,3.46,3.6,14.8M
+Las Vegas Sands Corp.,48.05,1.58,3.4,2.9M
+Chagee Holdings Limited,16.64,0.54,3.35,0.515384M
+Primoris Services Corporation,141.08,4.6,3.37,0.263055M
+"Oscar Health, Inc.",21.05,0.65,3.19,11.9M
+"Delek US Holdings, Inc.",35.22,1.13,3.31,0.378554M
+Viking Holdings Ltd,61.24,1.94,3.27,0.644726M
+Indivior PLC,24.69,0.82,3.44,0.854886M
+"AAON, Inc.",105.29,3.33,3.27,0.183881M
+"Zillow Group, Inc.",72.05,2.29,3.28,0.875166M
+Arm Holdings plc,177.34,5.4,3.14,8.0M
+Capital One Financial Corporation,214.47,6.86,3.3,1.7M
+"Green Brick Partners, Inc.",64.86,2.02,3.22,0.087904M
+"Advanced Micro Devices, Inc.",223.66,7.24,3.35,44.7M
+"Zillow Group, Inc.",69.11,2.14,3.2,0.214897M
+PG&E Corporation,16.47,0.49,3.1,13.6M
+"PureCycle Technologies, Inc.",13.6,0.43,3.26,2.1M
+"Surgery Partners, Inc.",20.42,0.63,3.18,0.331944M
+"Brighthouse Financial, Inc.",49.54,1.5,3.12,0.254217M
+"Paymentus Holdings, Inc.",29.51,0.86,3.0,0.324475M
+Endeavour Silver Corp.,8.77,0.27,3.24,10.4M
+"The Bancorp, Inc.",78.75,2.39,3.12,0.121229M
+Edison International,55.3,1.65,3.08,1.2M
+"Savers Value Village, Inc.",13.17,0.4,3.13,0.293578M
+Six Flags Entertainment Corporation,21.22,0.62,3.01,0.683362M
+Atlassian Corporation,154.03,4.64,3.11,1.6M
+Cameco Corporation,95.04,2.89,3.14,3.8M
+"Enova International, Inc.",109.21,3.23,3.05,0.05353M
+"Hub Group, Inc.",34.69,1.02,3.01,0.142233M
+Uranium Energy Corp.,15.96,0.64,4.18,11.4M

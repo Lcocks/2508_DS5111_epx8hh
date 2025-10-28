@@ -30,7 +30,7 @@ if __name__ == "__main__":
 
     # Find all files matching ygainers*.csv
     try:
-        files = glob.glob("./ygainers.csv")
+        files = glob.glob("./ygainers*.csv")
 
         if not files:
             print("Warning: No ygainers*.csv files found")
