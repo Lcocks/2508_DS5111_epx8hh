@@ -121,6 +121,23 @@ You can test the implementation by using `make wsjgaines_tstamp` or `make ygaine
 
 	To stop the cronjobs from running just comment them out in the crontab editor.
 
+Step 8: Adding yahoo.py, wsj.py, and base.py to automate python calls
+
+Inside bin/gainers you will find the yahoo.py, base.py, and wsj.py files. The base file is a base class interface to be called into the yahoo and wsj files. Each of these files should have a headless browser creator (.html), a csv creator, and calling of my_normalizer.py.
+
+	To test this you can use the following commands: 
+	• python bin/gainers/yahoo.py html
+	• python bin/gainers/yahoo.py csv
+	• python bin/gainers/yahoo.py normalize
+	• python bin/gainers/wjs.py html
+	• python bin/gainers/wjs.py csv
+	• python bin/gainers/wjs.py normalize
+
+Under the tests/ directory our test_smoketest.py file will have normalizer testing functions. Updates at this point reflect calling yahoo.py and wsj.py to test in place of just the normalizer (since it uses my_normalizer.py as a module).
+
+	Testing the updates we can use >make linttest< from our makefile.
+
+
 
 ## Appendix A
 
