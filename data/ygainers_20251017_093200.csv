@@ -1,0 +1,74 @@
+symbol,company_name,price,change,perc_change,volume
+PRAX,"Praxis Precision Medicines, Inc.",192.86,30.15,18.53,362923.0M
+JBHT,"J.B. Hunt Transport Services, Inc.",168.10,-1.47,-0.87,65145.0M
+GRAL,"GRAIL, Inc.",83.83,-2.58,-2.99,89774.0M
+GTLB,GitLab Inc.,47.29,-0.98,-2.03,418221.0M
+BLTE,"Belite Bio, Inc",90.80,1.73,1.94,11506.0M
+KYIV,Kyivstar Group Ltd.,13.37,-0.56,-4.02,309533.0M
+HL,Hecla Mining Company,14.66,-0.57,-3.76,1.2M
+TFII,TFI International Inc.,94.72,-0.63,-0.66,2083.0M
+EXK,Endeavour Silver Corp.,9.75,-0.4,-3.90,907067.0M
+BBVA,"Banco Bilbao Vizcaya Argentaria, S.A.",19.63,0.15,0.75,260571.0M
+GFI,Gold Fields Limited,44.71,-1.91,-4.10,194888.0M
+VEON,VEON Ltd.,53.52,-1.43,-2.60,8496.0M
+KNX,Knight-Swift Transportation Holdings Inc.,46.91,-0.14,-0.30,18376.0M
+SBSW,Sibanye Stillwater Limited,12.14,-0.68,-5.27,854423.0M
+HUBG,"Hub Group, Inc.",36.50,-0.16,-0.44,13288.0M
+CERT,"Certara, Inc.",12.22,-0.44,-3.44,12865.0M
+OLED,Universal Display Corporation,149.01,-1.14,-0.76,4723.0M
+BRKR,Bruker Corporation,37.95,-0.25,-0.65,24029.0M
+MU,"Micron Technology, Inc.",197.82,-4.71,-2.33,1.9M
+VICR,Vicor Corporation,59.35,-1.12,-1.85,8418.0M
+ASX,"ASE Technology Holding Co., Ltd.",12.74,0.16,1.31,392564.0M
+ON,ON Semiconductor Corporation,52.62,-0.35,-0.65,378672.0M
+KOF,"Coca-Cola FEMSA, S.A.B. de C.V.",85.15,-0.46,-0.53,2428.0M
+SRPT,"Sarepta Therapeutics, Inc.",22.72,-0.62,-2.67,149752.0M
+GH,"Guardant Health, Inc.",66.80,-0.67,-0.99,33108.0M
+DRD,DRDGOLD Limited,30.57,-1.15,-3.63,65705.0M
+AVTR,"Avantor, Inc.",14.56,0.0,0.01,92158.0M
+COHR,Coherent Corp.,113.93,-2.01,-1.73,63984.0M
+NEM,Newmont Corporation,95.21,-3.04,-3.09,1.2M
+CELC,Celcuity Inc.,50.66,-1.87,-3.55,10822.0M
+BF-A,Brown-Forman Corporation,28.35,1.32,4.88,3405.0M
+FMX,"Fomento Económico Mexicano, S.A.B. de C.V.",95.37,4.36,4.79,1127.0M
+EPAC,Enerpac Tool Group Corp.,42.04,-0.21,-0.49,14157.0M
+BVN,Compañía de Minas Buenaventura S.A.A.,25.83,-0.92,-3.46,29820.0M
+BTG,B2Gold Corp.,5.84,-0.09,-1.60,1.6M
+AMX,"América Móvil, S.A.B. de C.V.",22.32,-0.23,-1.00,16168.0M
+WDC,Western Digital Corporation,123.89,-2.03,-1.61,331393.0M
+AU,AngloGold Ashanti plc,76.27,-2.3,-2.93,98751.0M
+MTD,Mettler-Toledo International Inc.,"1,359.61",55.61,4.26,4716.0M
+LITE,Lumentum Holdings Inc.,160.50,-2.73,-1.67,31385.0M
+BF-B,Brown-Forman Corporation,28.38,0.1,0.35,79270.0M
+SNDR,"Schneider National, Inc.",23.64,0.03,0.15,6720.0M
+FRPT,"Freshpet, Inc.",53.56,-0.09,-0.17,9239.0M
+COO,"The Cooper Companies, Inc.",71.06,-0.5,-0.70,43001.0M
+FRMI,Fermi Inc.,28.48,-1.18,-3.98,153696.0M
+AGI,Alamos Gold Inc.,36.10,-1.38,-3.68,168627.0M
+CRM,"Salesforce, Inc.",245.61,-0.42,-0.17,586736.0M
+SA,Seabridge Gold Inc.,28.02,-0.94,-3.25,19280.0M
+CRDO,Credo Technology Group Holding Ltd,132.40,-4.13,-3.03,304807.0M
+KT,KT Corporation,19.22,0.72,3.89,11666.0M
+AEM,Agnico Eagle Mines Limited,180.59,-4.91,-2.65,119992.0M
+CDE,"Coeur Mining, Inc.",22.39,-0.71,-3.07,1.0M
+CLS,Celestica Inc.,273.92,-6.18,-2.20,131426.0M
+DEO,Diageo plc,97.24,1.13,1.17,140875.0M
+WSO,"Watsco, Inc.",368.00,-1.37,-0.37,2479.0M
+FN,Fabrinet,412.50,0.09,0.02,25976.0M
+OR,OR Royalties Inc.,39.20,-0.84,-2.11,20961.0M
+HMY,Harmony Gold Mining Company Limited,21.10,-0.81,-3.70,195995.0M
+LSTR,"Landstar System, Inc.",131.39,0.55,0.42,2184.0M
+SNA,Snap-on Incorporated,344.17,11.58,3.48,14032.0M
+CORT,Corcept Therapeutics Incorporated,78.63,-0.84,-1.06,10909.0M
+METC,"Ramaco Resources, Inc.",44.41,-5.07,-10.22,244300.0M
+TECH,Bio-Techne Corporation,61.59,-0.01,-0.02,46466.0M
+RGEN,Repligen Corporation,152.88,-1.67,-1.08,5457.0M
+COCO,"The Vita Coco Company, Inc.",41.20,-0.07,-0.17,9690.0M
+FUN,Six Flags Entertainment Corporation,21.38,0.1,0.49,39193.0M
+ILMN,"Illumina, Inc.",95.32,-0.59,-0.62,15863.0M
+AG,First Majestic Silver Corp.,14.80,-0.54,-3.55,1.8M
+ZGN,Ermenegildo Zegna N.V.,10.00,0.3,3.09,16287.0M
+ORCL,Oracle Corporation,300.08,-12.95,-4.14,2.0M
+PKX,POSCO Holdings Inc.,51.30,0.34,0.67,8166.0M
+IRTC,"iRhythm Technologies, Inc.",180.40,-0.62,-0.34,6312.0M
+STX,Seagate Technology Holdings plc,221.06,-4.97,-2.20,138416.0M

@@ -1,0 +1,101 @@
+symbol,company_name,price,change,perc_change,volume
+STI,Solidion Technology Inc. ,16.7,11.21,204.19,68.8M
+GWH,ESS Tech Inc. ,9.42,5.26,126.44,106.7M
+AQMS,Aqua Metals Inc. ,11.34,5.68,100.35,11.8M
+PMAX,Powell Max Ltd. ,4.59,2.0,77.22,23.9M
+CRML,Critical Metals Corp. ,21.28,6.3,42.06,41.0M
+CHNR,China Natural Resources Inc. ,7.03,2.05,41.25,15.7M
+LITM,Snow Lake Resources Ltd. ,6.25,1.77,39.47,11.9M
+ABAT,American Battery Technology Co. ,9.07,2.32,34.37,32.9M
+IPDN,Professional Diversity Network Inc. ,3.9,0.94,31.64,933.5K
+NVA,Nova Minerals Ltd. ADR ,35.35,8.44,31.37,335.7K
+ACON,Aclarion Inc. ,11.2,2.6,30.27,3.5M
+ELWS,Earlyworks Co. Ltd. ADR ,3.51,0.81,29.98,147.1K
+TAOX,Tao Synergies Inc. ,8.9,2.01,29.17,432.6K
+UAMY,United States Antimony Corp. ,15.7,3.5,28.62,26.1M
+BE,Bloom Energy Corp. ,110.88,24.01,27.64,18.0M
+IMAB,I-Mab ADR ,6.07,1.3,27.25,3.5M
+ADN,Advent Technologies Holdings Inc. ,3.65,0.78,27.18,276.6K
+HOVR,New Horizon Aircraft Ltd. ,3.64,0.77,26.83,1.6M
+ASPI,ASP Isotopes Inc. ,12.83,2.7,26.65,15.8M
+SDST,Stardust Power Inc. ,4.85,1.0,25.97,410.6K
+NAMM,Namib Minerals ,3.95,0.79,25.0,20.8M
+EOSE,Eos Energy Enterprises Inc. ,17.16,3.34,24.17,28.7M
+MP,MP Materials Corp. ,96.91,18.57,23.7,35.0M
+OMEX,Odyssey Marine Exploration Inc. ,3.49,0.67,23.73,3.3M
+BITF,Bitfarms Ltd. ,5.16,0.96,22.85,98.2M
+FOFO,Hang Feng Technology Innovation Co. Ltd. ,14.33,2.63,22.44,242.3K
+USAR,USA Rare Earth Inc. ,39.9,7.29,22.37,33.7M
+NBTX,Nanobiotix S.A. ADR ,28.75,5.15,21.82,128.8K
+NVTS,Navitas Semiconductor Corp. ,10.0,1.77,21.51,43.8M
+FLNC,Fluence Energy Inc. ,15.82,2.73,20.86,6.6M
+NMG,Nouveau Monde Graphite Inc. ,4.02,0.68,20.25,1.0M
+EUDA,EUDA Health Holdings Ltd. ,3.42,0.56,19.58,113.7K
+ONDS,Ondas Holdings Inc. ,11.02,1.8,19.58,33.7M
+WYFI,WhiteFiber Inc. ,39.49,6.46,19.56,842.2K
+ARQQ,Arqit Quantum Inc. ,57.93,9.41,19.39,771.5K
+UUUU,Energy Fuels Inc. ,24.23,3.89,19.12,30.1M
+WTI,W&T Offshore Inc. ,2.46,0.39,18.84,7.6M
+MVST,Microvast Holdings Inc. ,5.14,0.81,18.82,11.8M
+NAK,Northern Dynasty Minerals Ltd. ,2.41,0.38,18.71,32.0M
+IONR,Ioneer Ltd. ADR ,7.31,1.14,18.48,610.4K
+SOAR,Volato Group Inc. ,2.95,0.46,18.47,2.7M
+BRLT,Brilliant Earth Group Inc. Cl A ,2.5,0.38,17.92,141.1K
+VELO,Velo3D Inc. ,5.25,0.8,17.88,735.3K
+MOB,Mobilicom Ltd. ADR ,9.86,1.49,17.8,371.4K
+RGTI,Rigetti Computing Inc. ,51.67,7.75,17.65,86.8M
+NEXM,NexMetals Mining Corp. ,6.5,0.97,17.54,161.9K
+AXTI,AXT Inc. ,4.74,0.7,17.49,1.9M
+FORD,Forward Industries Inc. ,23.92,3.54,17.34,303.5K
+QBTS,D-Wave Quantum Inc. ,38.73,5.71,17.29,41.7M
+TMC,TMC the metals company Inc. ,10.39,1.51,16.96,20.0M
+NUKK,Nukkleus Inc. ,9.3,1.34,16.84,909.3K
+BTQ,BTQ Technologies Corp. ,11.82,1.7,16.8,6.5M
+NNE,Nano Nuclear Energy Inc. ,53.45,7.62,16.63,4.6M
+LTBR,Lightbridge Corp. ,25.65,3.57,16.17,2.4M
+BLBX,Blackboxstocks Inc. ,9.46,1.31,16.07,3.0M
+NDRA,ENDRA Life Sciences Inc. ,7.52,1.04,16.05,13.3M
+RCAT,Red Cat Holdings Inc. ,15.22,2.1,15.97,9.7M
+CIFR,Cipher Mining Inc. ,19.64,2.67,15.7,35.5M
+ATLX,Atlas Lithium Corp. ,7.28,0.98,15.56,1.6M
+LAR,Lithium Argentina AG ,5.16,0.69,15.55,3.9M
+QS,QuantumScape Corp. Cl A ,16.98,2.29,15.54,45.5M
+GTI,Graphjet Technology ,4.45,0.58,15.0,211.6K
+UUU,Universal Safety Products Inc. ,5.03,0.65,14.83,220.9K
+POWI,Power Integrations Inc. ,39.66,5.01,14.48,3.2M
+ZEPP,Zepp Health Corp. ADR ,55.59,7.02,14.45,245.6K
+DPRO,Draganfly Inc. ,13.7,1.69,14.11,3.5M
+SNDK,Sandisk Corp. ,133.37,16.46,14.08,5.1M
+SLI,Standard Lithium Ltd. ,5.14,0.64,14.08,3.8M
+OKLO,Oklo Inc. ,167.84,20.68,14.05,17.1M
+AGX,Argan Inc. ,291.53,35.38,13.81,206.0K
+BBAI,BigBear.ai Holdings Inc. ,8.21,0.99,13.68,100.7M
+PLUG,Plug Power Inc. ,3.89,0.47,13.65,124.6M
+NVNI,Nvni Group Ltd. ,3.5,0.42,13.64,460.2K
+AOSL,Alpha & Omega Semiconductor Inc. ,29.16,3.5,13.62,184.6K
+TNGX,Tango Therapeutics Inc. ,8.11,0.97,13.59,910.2K
+FEAM,5E Advanced Materials Inc. ,6.42,0.76,13.43,324.9K
+SKE,Skeena Resources Ltd. ,20.74,2.44,13.36,468.0K
+IONQ,IonQ Inc. ,79.93,9.28,13.14,19.6M
+PXLW,Pixelworks Inc. ,14.52,1.68,13.05,183.9K
+LAES,SEALSQ Corp. ,6.12,0.7,13.03,35.4M
+MTEX,Mannatech Inc. ,10.17,1.17,13.0,558.5K
+SMR,NuScale Power Corp. ,44.35,5.11,13.01,18.1M
+PDYN,Palladyne AI Corp. ,9.36,1.07,12.97,1.3M
+GWAV,Greenwave Technology Solutions Inc. ,8.11,0.92,12.8,373.4K
+FMST,Foremost Clean Energy Ltd. ,3.54,0.4,12.74,448.1K
+METCB,Ramaco Resources Inc. Cl B ,20.65,2.33,12.72,109.5K
+SEI,Solaris Energy Infrastructure Inc. ,50.66,5.68,12.63,2.1M
+NCNA,NuCana PLC ADR ,6.0,0.67,12.55,340.6K
+TMQ,Trilogy Metals Inc. ,6.67,0.74,12.48,20.1M
+SES,SES AI Corp. ,3.4,0.38,12.42,15.3M
+SUPV,Grupo Supervielle S.A. ADR ,6.42,0.7,12.33,1.2M
+FOSL,Fossil Group Inc. ,2.56,0.28,12.28,302.5K
+AMRC,Ameresco Inc. Cl A ,42.83,4.65,12.18,454.8K
+DWTX,Dogwood Therapeutics Inc. ,6.02,0.65,12.07,53.4K
+AEVA,Aeva Technologies Inc. ,17.49,1.88,12.04,1.3M
+TAC,Transalta Corp. ,17.4,1.81,11.61,4.1M
+SUPX,SuperX AI Technology Ltd. ,64.76,6.59,11.34,229.4K
+WKEY,WISeKey International Holding Ltd. ADR ,7.76,0.79,11.33,236.6K
+EXK,Endeavour Silver Corp. ,8.52,0.86,11.29,8.6M
+VNET,VNET Group Inc. ADR ,9.46,0.95,11.22,3.4M

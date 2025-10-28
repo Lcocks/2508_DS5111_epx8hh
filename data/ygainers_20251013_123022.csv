@@ -1,0 +1,201 @@
+symbol,company_name,price,change,perc_change,volume
+CRML,Critical Metals Corp.,21.47,6.49,43.29,41.5M
+UAMY,United States Antimony Corporation,15.84,3.63,29.73,26.4M
+BE,Bloom Energy Corporation,110.81,23.93,27.55,18.3M
+EOSE,"Eos Energy Enterprises, Inc.",17.18,3.36,24.31,29.1M
+MP,MP Materials Corp.,96.70,18.36,23.43,35.7M
+BITF,Bitfarms Ltd.,5.17,0.97,23.12,99.5M
+USAR,"USA Rare Earth, Inc.",40.15,7.53,23.11,34.3M
+NVTS,Navitas Semiconductor Corporation,10.09,1.86,22.63,45.7M
+FLNC,"Fluence Energy, Inc.",15.78,2.69,20.55,6.8M
+ONDS,Ondas Holdings Inc.,11.06,1.84,20.00,34.8M
+UUUU,Energy Fuels Inc.,24.20,3.86,19.01,30.6M
+RGTI,"Rigetti Computing, Inc.",51.74,7.82,17.81,88.9M
+QBTS,D-Wave Quantum Inc.,38.72,5.7,17.27,43.1M
+FORD,"Forward Industries, Inc.",24.00,3.61,17.70,303088.0M
+TMC,TMC the metals company Inc.,10.38,1.49,16.77,20.3M
+BTQ,BTQ Technologies Corp.,11.80,1.68,16.60,6.5M
+NNE,NANO Nuclear Energy Inc.,53.40,7.57,16.52,4.8M
+CIFR,Cipher Mining Inc.,19.63,2.66,15.67,36.3M
+QS,QuantumScape Corporation,17.00,2.3,15.68,46.1M
+POWI,"Power Integrations, Inc.",39.71,5.07,14.65,3.2M
+SNDK,Sandisk Corporation,133.60,16.69,14.28,5.2M
+AGX,"Argan, Inc.",291.62,35.48,13.85,214815.0M
+OKLO,Oklo Inc.,168.02,20.86,14.18,17.3M
+BBAI,"BigBear.ai Holdings, Inc.",8.23,1.01,13.92,102.1M
+SKE,Skeena Resources Limited,20.74,2.44,13.33,487686.0M
+IONQ,"IonQ, Inc.",79.98,9.33,13.21,20.1M
+SMR,NuScale Power Corporation,44.35,5.11,13.04,18.5M
+SEI,"Solaris Energy Infrastructure, Inc.",50.69,5.71,12.69,2.2M
+METCB,"Ramaco Resources, Inc.",20.65,2.33,12.72,110593.0M
+AMRC,"Ameresco, Inc.",42.81,4.63,12.13,466662.0M
+TAC,TransAlta Corporation,17.38,1.79,11.45,4.2M
+VNET,"VNET Group, Inc.",9.48,0.97,11.46,3.5M
+EXK,Endeavour Silver Corp.,8.51,0.85,11.07,8.7M
+IREN,IREN Limited,66.15,6.38,10.68,28.4M
+AMBA,"Ambarella, Inc.",80.75,7.87,10.80,522075.0M
+PSIX,"Power Solutions International, Inc.",94.75,9.03,10.53,302000.0M
+IE,Ivanhoe Electric Inc.,15.92,1.51,10.48,1.4M
+AVGO,Broadcom Inc.,357.66,33.03,10.17,27.5M
+METC,"Ramaco Resources, Inc.",52.09,4.89,10.36,1.8M
+CLS,Celestica Inc.,267.92,24.2,9.93,2.1M
+RUN,Sunrun Inc.,20.68,1.88,9.99,4.0M
+GRND,Grindr Inc.,13.14,1.18,9.82,4.4M
+ENTG,"Entegris, Inc.",91.90,8.26,9.88,957891.0M
+LAC,Lithium Americas Corp.,8.22,0.73,9.68,56.8M
+ALB,Albemarle Corporation,98.44,8.58,9.55,2.3M
+HMY,Harmony Gold Mining Company Limited,19.98,1.71,9.36,2.8M
+APLD,Applied Digital Corporation,37.18,3.19,9.39,33.1M
+QUBT,Quantum Computing Inc.,20.81,1.79,9.41,21.2M
+BBAR,Banco BBVA Argentina S.A.,10.06,0.87,9.47,1.0M
+SOUN,"SoundHound AI, Inc.",18.98,1.62,9.32,35.8M
+MARA,"MARA Holdings, Inc.",20.29,1.66,8.88,24.8M
+AMSC,American Superconductor Corporation,61.39,5.15,9.16,466231.0M
+YELP,Yelp Inc.,33.01,2.74,9.04,724313.0M
+ENVX,Enovix Corporation,13.18,1.11,9.20,6.7M
+HL,Hecla Mining Company,13.68,1.14,9.05,10.6M
+MKSI,MKS Inc.,132.22,10.96,9.04,364792.0M
+CENX,Century Aluminum Company,33.01,2.72,8.98,834575.0M
+ARM,Arm Holdings plc,168.80,13.93,9.00,3.8M
+HUT,Hut 8 Corp.,47.41,3.84,8.81,4.1M
+MPWR,"Monolithic Power Systems, Inc.",984.55,80.11,8.86,280383.0M
+BBY,"Best Buy Co., Inc.",76.63,6.2,8.80,1.8M
+SBSW,Sibanye Stillwater Limited,11.89,0.94,8.54,5.0M
+SYM,Symbotic Inc.,69.30,5.51,8.63,1.1M
+ON,ON Semiconductor Corporation,49.63,3.89,8.52,4.1M
+CDE,"Coeur Mining, Inc.",21.24,1.68,8.59,6.9M
+BTDR,Bitdeer Technologies Group,19.24,1.45,8.18,3.3M
+ONTO,Onto Innovation Inc.,131.63,10.29,8.48,652333.0M
+GDS,GDS Holdings Limited,36.09,2.78,8.35,1.2M
+PII,Polaris Inc.,60.97,4.67,8.29,462879.0M
+OLN,Olin Corporation,24.12,1.84,8.26,905352.0M
+CAMT,Camtek Ltd.,119.06,9.01,8.19,267052.0M
+RMBS,Rambus Inc.,96.67,7.1,7.92,861428.0M
+CRDO,Credo Technology Group Holding Ltd,150.22,11.39,8.20,3.1M
+PONY,Pony AI Inc.,21.89,1.6,7.89,3.6M
+CC,The Chemours Company,13.55,1.0,7.97,1.4M
+TSM,Taiwan Semiconductor Manufacturing Company Limited,302.95,22.29,7.94,12.8M
+FRMI,Fermi Inc.,31.25,2.17,7.45,3.5M
+PAAS,Pan American Silver Corp.,41.46,2.96,7.68,3.8M
+SA,Seabridge Gold Inc.,26.42,1.87,7.60,692320.0M
+FIVE,"Five Below, Inc.",148.93,10.43,7.53,904849.0M
+ASTS,"AST SpaceMobile, Inc.",88.31,6.28,7.66,6.2M
+DKS,"DICK'S Sporting Goods, Inc.",227.34,15.76,7.45,785415.0M
+AMKR,"Amkor Technology, Inc.",30.36,2.1,7.43,1.2M
+GEV,GE Vernova Inc.,649.02,44.46,7.35,1.5M
+BOOT,"Boot Barn Holdings, Inc.",175.75,11.93,7.28,139794.0M
+ACMR,"ACM Research, Inc.",39.21,2.62,7.15,443295.0M
+CGNX,Cognex Corporation,43.72,2.94,7.21,746891.0M
+IESC,"IES Holdings, Inc.",387.49,25.93,7.17,66228.0M
+MTSI,"MACOM Technology Solutions Holdings, Inc.",130.89,8.71,7.13,263866.0M
+PAM,Pampa Energía S.A.,68.01,4.55,7.16,94190.0M
+BURL,"Burlington Stores, Inc.",272.87,18.35,7.21,627591.0M
+CCJ,Cameco Corporation,92.83,6.18,7.13,3.9M
+ERO,Ero Copper Corp.,22.84,1.5,7.03,432043.0M
+NIO,NIO Inc.,7.16,0.45,6.78,46.7M
+BROS,Dutch Bros Inc.,52.32,3.44,7.04,3.3M
+VICR,Vicor Corporation,51.94,3.38,6.96,97675.0M
+ASO,"Academy Sports and Outdoors, Inc.",52.69,3.31,6.71,812197.0M
+FORM,"FormFactor, Inc.",40.77,2.63,6.90,346833.0M
+BMA,Banco Macro S.A.,54.37,3.37,6.61,198385.0M
+AG,First Majestic Silver Corp.,14.13,0.89,6.72,12.8M
+LEU,Centrus Energy Corp.,398.69,34.98,9.62,1.4M
+NTSK,"Netskope, Inc.",23.16,1.41,6.49,1.4M
+AEIS,"Advanced Energy Industries, Inc.",180.87,11.25,6.63,145477.0M
+DIOD,Diodes Incorporated,51.56,3.19,6.60,172952.0M
+LITE,Lumentum Holdings Inc.,159.49,9.88,6.60,1.3M
+SCCO,Southern Copper Corporation,133.15,8.05,6.43,864405.0M
+PKX,POSCO Holdings Inc.,48.10,2.97,6.58,63344.0M
+TLN,Talen Energy Corporation,439.45,26.62,6.45,370593.0M
+SMMT,Summit Therapeutics Inc.,22.78,1.43,6.70,3.8M
+VSH,"Vishay Intertechnology, Inc.",15.62,0.96,6.55,394045.0M
+NAMS,NewAmsterdam Pharma Company N.V.,39.46,2.41,6.49,1.4M
+VST,Vistra Corp.,209.53,12.67,6.43,2.3M
+ARMN,Aris Mining Corporation,10.74,0.67,6.65,279017.0M
+MCHP,Microchip Technology Incorporated,64.15,3.74,6.20,2.0M
+GFI,Gold Fields Limited,43.60,2.6,6.34,2.0M
+FLR,Fluor Corporation,46.72,2.74,6.23,1.8M
+AAP,"Advance Auto Parts, Inc.",52.64,3.16,6.39,919186.0M
+IAG,IAMGOLD Corporation,13.48,0.78,6.18,5.5M
+TEO,Telecom Argentina S.A.,7.95,0.47,6.21,113260.0M
+VRT,Vertiv Holdings Co,179.47,10.46,6.19,6.6M
+SEDG,"SolarEdge Technologies, Inc.",37.32,2.26,6.45,1.7M
+MTRN,Materion Corporation,125.57,7.47,6.33,51609.0M
+MBLY,Mobileye Global Inc.,15.11,0.88,6.14,3.3M
+MUR,Murphy Oil Corporation,28.39,1.62,6.05,919623.0M
+RGC,Regencell Bioscience Holdings Limited,17.83,1.02,6.07,165181.0M
+PL,Planet Labs PBC,15.58,0.88,5.99,6.5M
+KC,Kingsoft Cloud Holdings Limited,13.38,0.75,5.93,1.2M
+HPQ,HP Inc.,27.09,1.54,6.03,4.2M
+SITM,SiTime Corporation,293.75,16.1,5.80,113686.0M
+MANU,Manchester United plc,16.91,0.95,5.95,280631.0M
+STRL,"Sterling Infrastructure, Inc.",356.54,19.9,5.91,141924.0M
+ECG,"Everus Construction Group, Inc.",87.74,4.89,5.90,147825.0M
+SARO,"StandardAero, Inc.",27.86,1.44,5.45,1.8M
+SQM,Sociedad Química y Minera de Chile S.A.,43.17,2.4,5.89,659119.0M
+NVMI,Nova Ltd.,320.00,17.72,5.86,160236.0M
+MIR,"Mirion Technologies, Inc.",24.49,1.37,5.92,1.2M
+YPF,YPF Sociedad Anónima,27.94,1.52,5.77,1.2M
+SIG,Signet Jewelers Limited,97.59,5.28,5.72,273072.0M
+HSAI,Hesai Group,23.31,1.26,5.69,1.5M
+EL,The Estée Lauder Companies Inc.,92.65,5.0,5.71,1.9M
+PPTA,Perpetua Resources Corp.,27.25,1.46,5.66,2.7M
+EGO,Eldorado Gold Corporation,29.18,1.58,5.74,776174.0M
+HBM,Hudbay Minerals Inc.,17.50,0.93,5.64,3.6M
+ALGM,"Allegro MicroSystems, Inc.",27.39,1.47,5.67,432397.0M
+OLLI,"Ollie's Bargain Outlet Holdings, Inc.",131.56,6.96,5.59,295840.0M
+AGI,Alamos Gold Inc.,34.94,1.9,5.73,1.4M
+FCX,Freeport-McMoRan Inc.,43.21,2.33,5.70,7.7M
+NGD,New Gold Inc.,7.23,0.39,5.70,7.2M
+SYNA,Synaptics Incorporated,65.50,3.48,5.62,107927.0M
+NBIS,Nebius Group N.V.,136.96,7.38,5.70,9.0M
+STM,STMicroelectronics N.V.,28.60,1.49,5.51,2.0M
+DJTWW,Trump Media & Technology Group Corp.,7.65,0.4,5.52,18045.0M
+ORCL,Oracle Corporation,308.85,15.89,5.42,13.9M
+BTU,Peabody Energy Corporation,32.60,1.72,5.55,4.1M
+AAUC,Allied Gold Corporation,18.70,0.97,5.50,56989.0M
+VSAT,"Viasat, Inc.",34.42,1.8,5.52,828635.0M
+SLAB,Silicon Laboratories Inc.,128.77,6.59,5.40,56879.0M
+UMC,United Microelectronics Corporation,7.57,0.39,5.36,3.2M
+ORLA,Orla Mining Ltd.,11.59,0.58,5.26,516583.0M
+BABA,Alibaba Group Holding Limited,167.65,8.65,5.44,17.0M
+BZ,Kanzhun Limited,22.84,1.16,5.35,1.0M
+FUTU,Futu Holdings Limited,162.82,8.22,5.32,1.6M
+ASX,"ASE Technology Holding Co., Ltd.",11.66,0.59,5.28,2.3M
+CLF,Cleveland-Cliffs Inc.,13.89,0.71,5.39,23.6M
+KTB,"Kontoor Brands, Inc.",78.21,3.88,5.23,135594.0M
+JD,"JD.com, Inc.",33.49,1.64,5.16,13.1M
+WRD,WeRide Inc.,10.70,0.53,5.19,3.9M
+FN,Fabrinet,380.52,18.58,5.13,133603.0M
+ST,Sensata Technologies Holding plc,30.50,1.47,5.05,437118.0M
+MNSO,MINISO Group Holding Limited,22.34,1.09,5.13,735117.0M
+SMTC,Semtech Corporation,68.50,3.24,4.96,552398.0M
+SGHC,Super Group (SGHC) Limited,13.66,0.67,5.12,874634.0M
+CROX,"Crocs, Inc.",80.70,4.0,5.22,540382.0M
+SSRM,SSR Mining Inc.,23.58,1.14,5.10,880579.0M
+CIEN,Ciena Corporation,164.08,8.14,5.22,1.2M
+NVT,nVent Electric plc,100.86,4.88,5.08,659983.0M
+CRK,"Comstock Resources, Inc.",19.35,0.93,5.05,1.0M
+AEO,"American Eagle Outfitters, Inc.",15.03,0.72,5.07,3.1M
+EQX,Equinox Gold Corp.,12.23,0.59,5.02,6.4M
+DLTR,"Dollar Tree, Inc.",91.96,4.35,4.97,3.6M
+JOBY,"Joby Aviation, Inc.",17.10,0.82,5.04,19.1M
+M,"Macy's, Inc.",17.33,0.82,4.97,3.9M
+TIC,Acuren Corporation,12.85,0.59,4.85,1.4M
+VFC,V.F. Corporation,13.95,0.66,4.97,2.7M
+TECK,Teck Resources Limited,43.93,2.07,4.95,2.5M
+NXPI,NXP Semiconductors N.V.,215.51,10.14,4.94,707940.0M
+MU,"Micron Technology, Inc.",190.60,9.0,4.96,10.7M
+ESI,Element Solutions Inc,25.12,1.18,4.93,539877.0M
+AA,Alcoa Corporation,36.71,1.69,4.83,2.6M
+KLAC,KLA Corporation,"1,030.53",47.78,4.86,369574.0M
+RUM,Rumble Inc.,7.82,0.36,4.89,1.5M
+KLIC,"Kulicke and Soffa Industries, Inc.",40.03,1.85,4.85,72135.0M
+QCOM,QUALCOMM Incorporated,160.98,7.46,4.86,4.0M
+NEM,Newmont Corporation,89.26,4.12,4.84,5.1M
+LRCX,Lam Research Corporation,137.70,6.33,4.82,3.8M
+CE,Celanese Corporation,41.14,1.85,4.71,494340.0M
+MYRG,MYR Group Inc.,205.88,9.31,4.74,56934.0M
+AMR,"Alpha Metallurgical Resources, Inc.",167.61,7.59,4.74,78521.0M
+AMAT,"Applied Materials, Inc.",219.88,9.93,4.73,3.1M
+CIVI,"Civitas Resources, Inc.",30.85,1.37,4.65,813556.0M

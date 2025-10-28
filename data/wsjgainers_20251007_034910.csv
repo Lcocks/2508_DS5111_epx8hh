@@ -1,0 +1,101 @@
+symbol,company_name,price,change,perc_change,volume
+SPRB,Spruce Biosciences Inc. ,130.4,121.58,1378.46,24.9M
+CRML,Critical Metals Corp. ,11.59,3.61,45.24,159.3M
+IONR,Ioneer Ltd. ADR ,6.53,1.78,37.47,5.9M
+ORBS,Eightco Holdings Inc. ,11.07,2.83,34.34,8.0M
+SLDP,Solid Power Inc. ,5.77,1.45,33.56,55.1M
+OMEX,Odyssey Marine Exploration Inc. ,2.66,0.65,32.34,8.6M
+APDN,Applied DNA Sciences Inc. ,5.62,1.35,31.62,2.9M
+FLUX,Flux Power Holdings Inc. ,4.9,1.17,31.37,1.3M
+BTQ,BTQ Technologies Corp. ,9.1,2.16,31.12,9.8M
+OMSE,OMS Energy Technologies Inc. ,4.31,1.0,30.21,146.6K
+PMAX,Powell Max Ltd. ,2.99,0.68,29.64,392.3K
+GSRTR,GSR III Acquisition Corp. Rt ,11.82,2.67,29.18,344.1K
+BZAI,Blaize Holdings Inc. ,5.05,1.12,28.5,9.0M
+EVAX,Evaxion A/S ADR ,6.95,1.52,27.99,1.4M
+ARAI,Arrive AI Inc. ,4.98,1.08,27.69,1.7M
+KOPN,Kopin Corp. ,3.57,0.75,26.6,18.4M
+HIVE,HIVE Digital Technologies Ltd. ,5.57,1.12,25.17,72.9M
+FCUV,Focus Universal Inc. ,4.26,0.85,25.11,194.7K
+ORIC,Oric Pharmaceuticals Inc. ,14.41,2.85,24.6,3.7M
+BMEA,Biomea Fusion Inc. ,2.67,0.52,24.19,14.4M
+AMD,Advanced Micro Devices Inc. ,203.71,39.04,23.71,248.9M
+AIP,Arteris Inc. ,13.58,2.6,23.68,4.4M
+SLGL,Sol-Gel Technologies Ltd. ,42.9,8.1,23.28,80.7K
+NIU,Niu Technologies ADR ,5.56,1.04,23.01,3.3M
+SANM,Sanmina Corp. ,140.0,25.92,22.72,4.4M
+DDC,DDC Enterprise Ltd. ,9.13,1.66,22.22,270.0K
+MFH,Mercurity Fintech Holding Inc. ,35.79,6.38,21.69,731.8K
+SMTK,SmartKem Inc. ,2.77,0.49,21.49,510.3K
+AAOI,Applied Optoelectronics Inc. ,33.79,5.86,20.98,10.8M
+KLRS,Kalaris Therapeutics Inc. ,8.03,1.39,20.93,524.7K
+APYX,Apyx Medical Corp. ,2.89,0.5,20.92,327.4K
+NNE,Nano Nuclear Energy Inc. ,53.63,9.14,20.54,8.8M
+STEX,Streamex Corp. ,6.31,1.07,20.42,6.0M
+TAOX,Tao Synergies Inc. ,7.71,1.3,20.28,338.7K
+DGNX,Diginex Ltd. ,19.8,3.33,20.22,865.0K
+GSRT,GSR III Acquisition Corp. ,12.32,2.05,19.96,6.9M
+HSII,Heidrick & Struggles International Inc. ,58.22,9.54,19.6,1.9M
+AISP,Airship AI Holdings Inc. Cl A ,6.98,1.14,19.52,5.0M
+KSCP,Knightscope Inc. ,7.4,1.18,18.97,1.7M
+EHTH,eHealth Inc. ,5.26,0.82,18.47,1.1M
+MYSE,Myseum Inc. ,3.24,0.5,18.25,490.8K
+YAAS,Youxin Technology Ltd. ,3.05,0.47,18.22,3.3M
+HUMA,Humacyte Inc. ,2.48,0.38,18.1,11.2M
+SES,SES AI Corp. ,2.43,0.37,17.96,28.2M
+ACHR,Archer Aviation Inc. ,13.64,2.07,17.89,160.9M
+RMCO,Royalty Management Holding Corp. ,2.87,0.43,17.62,252.3K
+FMST,Foremost Clean Energy Ltd. ,3.5,0.52,17.45,1.4M
+NYXH,Nyxoah S.A. ,5.8,0.85,17.17,164.6K
+IMNM,Immunome Inc. ,14.41,2.03,16.4,2.8M
+GRAN,Grande Group Ltd. Cl A ,3.73,0.52,16.2,1.3M
+ELWS,Earlyworks Co. Ltd. ADR ,3.1,0.42,15.67,227.8K
+BNC,CEA Industries Inc. ,9.4,1.27,15.62,2.7M
+LYRA,Lyra Therapeutics Inc. ,8.09,1.09,15.57,313.8K
+IDR,Idaho Strategic Resources Inc. ,40.36,5.33,15.22,1.1M
+VFF,Village Farms International Inc. ,3.27,0.43,15.14,7.6M
+NEGG,Newegg Commerce Inc. ,53.72,7.02,15.03,854.4K
+BITF,Bitfarms Ltd. ,3.46,0.45,14.95,97.7M
+EAF,GrafTech International Ltd. ,15.25,1.95,14.66,418.4K
+IREN,IREN Ltd. ,57.75,7.29,14.45,42.0M
+BEEM,Beam Global ,3.41,0.43,14.43,1.4M
+OPEN,Opendoor Technologies Inc. ,9.28,1.17,14.43,287.5M
+RADX,Radiopharm Theranostics Ltd. ADR ,7.09,0.89,14.35,63.1K
+BTCS,BTCS Inc. ,5.83,0.72,14.09,4.5M
+NEPH,Nephros Inc. ,5.44,0.67,14.05,212.1K
+BTM,Bitcoin Depot Inc. Cl A ,4.39,0.54,14.03,5.1M
+CAMP,CAMP4 Therapeutics Corp. ,3.45,0.42,13.86,249.6K
+ASYS,Amtech Systems Inc. ,10.44,1.27,13.85,968.9K
+SERV,Serve Robotics Inc. ,14.93,1.81,13.8,17.9M
+CMA,Comerica Inc. ,80.2,9.65,13.68,23.3M
+ZOOZ,ZOOZ Power Ltd. ,2.3,0.27,13.3,1.2M
+MGRX,Mangoceuticals Inc. ,2.57,0.3,13.22,356.2K
+NVA,Nova Minerals Ltd. ADR ,24.76,2.89,13.21,169.8K
+RCAT,Red Cat Holdings Inc. ,14.58,1.69,13.11,24.2M
+FBIO,Fortress Biotech Inc. ,3.11,0.36,13.09,1.5M
+HOVR,New Horizon Aircraft Ltd. ,2.97,0.34,12.93,1.8M
+ZEPP,Zepp Health Corp. ADR ,56.12,6.42,12.92,496.3K
+FORD,Forward Industries Inc. ,25.43,2.9,12.87,494.1K
+KITT,Nauticus Robotics Inc. ,3.45,0.39,12.75,1.1M
+PATH,UiPath Inc. ,14.52,1.62,12.56,61.2M
+EDSA,Edesa Biotech Inc. ,2.88,0.32,12.5,161.0K
+ORLA,Orla Mining Ltd. ,11.54,1.28,12.48,4.7M
+SNES,SenesTech Inc. ,4.24,0.47,12.47,223.7K
+VOYG,Voyager Technologies Inc. ,35.62,3.93,12.4,1.5M
+BHST,BioHarvest Sciences Inc. ,9.85,1.08,12.31,390.6K
+GRRR,Gorilla Technology Group Inc. ,20.67,2.26,12.28,2.9M
+TBN,Tamboran Resources Corp. ,30.44,3.32,12.24,107.9K
+ASPN,Aspen Aerogels Inc. ,8.7,0.94,12.11,3.7M
+UAVS,AgEagle Aerial Systems Inc. ,2.89,0.31,12.02,6.9M
+HSDT,Solana Co. ,18.19,1.95,12.01,1.5M
+BKSY,BlackSky Technology Inc. ,28.58,3.06,11.99,3.6M
+ABVE,Above Food Ingredients Inc. ,3.28,0.35,11.95,7.1M
+IHRT,iHeartMedia Inc. ,3.19,0.34,11.93,1.2M
+TACT,TransAct Technologies Inc. ,5.65,0.6,11.88,114.7K
+HIT,Health In Tech Inc. Cl A ,3.77,0.4,11.87,591.3K
+GEOS,Geospace Technologies Corp. ,21.93,2.32,11.83,259.1K
+RNAZ,TransCode Therapeutics Inc. ,11.8,1.24,11.69,55.1K
+CARL,Carlsmed Inc. ,14.48,1.51,11.64,73.3K
+BMNR,BitMine Immersion Technologies Inc. ,63.22,6.57,11.6,64.8M
+LIDR,AEye Inc. ,2.84,0.29,11.37,6.3M
+ABSI,Absci Corp. ,3.76,0.38,11.24,7.8M

@@ -1,0 +1,201 @@
+symbol,company_name,price,change,perc_change,volume
+CRML,Critical Metals Corp.,27.42,-2.55,-8.49,3.5M
+NVTS,Navitas Semiconductor Corporation,13.04,0.47,3.74,6.2M
+ERIC,Telefonaktiebolaget LM Ericsson (publ),9.71,-0.14,-1.42,2.6M
+LAC,Lithium Americas Corp.,10.06,-0.01,-0.05,9.1M
+OUST,"Ouster, Inc.",39.35,3.19,8.78,365090.0M
+DBRG,"DigitalBridge Group, Inc.",13.99,0.51,3.86,482732.0M
+ALM,Almonty Industries Inc.,10.58,0.62,6.22,907668.0M
+PII,Polaris Inc.,69.95,0.07,0.10,25327.0M
+ACI,"Albertsons Companies, Inc.",19.18,-0.1,-0.53,85284.0M
+FLNC,"Fluence Energy, Inc.",21.10,2.65,14.36,2.7M
+DLO,DLocal Limited,16.16,0.48,3.06,359173.0M
+UUUU,Energy Fuels Inc.,27.21,0.98,3.74,3.2M
+DYN,"Dyne Therapeutics, Inc.",15.61,0.16,1.07,18503.0M
+UI,Ubiquiti Inc.,754.73,67.88,9.88,2321.0M
+CLSK,"CleanSpark, Inc.",22.16,0.18,0.83,2.6M
+BITF,Bitfarms Ltd.,6.25,0.36,6.11,13.0M
+ZGN,Ermenegildo Zegna N.V.,9.62,0.09,0.89,16409.0M
+SOUN,"SoundHound AI, Inc.",21.68,0.82,3.91,3.8M
+IREN,IREN Limited,72.07,2.51,3.61,4.0M
+JOBY,"Joby Aviation, Inc.",18.10,-0.02,-0.11,2.0M
+BG,Bunge Global SA,89.02,6.6,8.01,110710.0M
+ULS,UL Solutions Inc.,77.38,-0.22,-0.28,2533.0M
+WFC,Wells Fargo & Company,85.34,0.76,0.90,389598.0M
+DAVE,Dave Inc.,218.58,2.33,1.08,5221.0M
+PGY,Pagaya Technologies Ltd.,30.26,0.4,1.34,323639.0M
+IBP,"Installed Building Products, Inc.",256.84,0.38,0.15,3237.0M
+ALVO,Alvotech,8.79,0.29,3.42,28761.0M
+KEP,Korea Electric Power Corporation,13.90,0.34,2.55,22214.0M
+RXRX,"Recursion Pharmaceuticals, Inc.",6.15,0.26,4.41,3.5M
+AMSC,American Superconductor Corporation,69.24,3.7,5.65,69037.0M
+OKLO,Oklo Inc.,187.42,13.3,7.64,1.5M
+VSAT,"Viasat, Inc.",37.80,0.88,2.39,48322.0M
+NBTB,NBT Bancorp Inc.,42.20,0.02,0.05,2602.0M
+QUBT,Quantum Computing Inc.,23.53,1.75,8.03,4.5M
+BLDR,"Builders FirstSource, Inc.",127.69,-0.46,-0.36,14429.0M
+QBTS,D-Wave Quantum Inc.,46.06,3.03,7.03,3.8M
+SGRY,"Surgery Partners, Inc.",21.11,0.18,0.86,3822.0M
+SAH,"Sonic Automotive, Inc.",75.29,-0.57,-0.74,2079.0M
+EEFT,"Euronet Worldwide, Inc.",88.44,0.73,0.83,8038.0M
+KBH,KB Home,61.35,0.07,0.11,17017.0M
+GNRC,Generac Holdings Inc.,187.31,3.41,1.86,14061.0M
+QXO,"QXO, Inc.",19.53,1.03,5.57,9.7M
+YETI,"YETI Holdings, Inc.",34.29,0.31,0.93,17790.0M
+ALLY,Ally Financial Inc.,40.24,0.31,0.78,20433.0M
+NNE,NANO Nuclear Energy Inc.,57.97,3.59,6.60,332656.0M
+TLX,Telix Pharmaceuticals Limited,11.10,1.06,10.62,88246.0M
+TBBK,"The Bancorp, Inc.",81.47,1.13,1.41,4310.0M
+OPEN,Opendoor Technologies Inc.,7.68,0.04,0.52,5.3M
+BFH,"Bread Financial Holdings, Inc.",59.72,0.48,0.81,2804.0M
+WMT,Walmart Inc.,107.77,0.56,0.52,798740.0M
+SRAD,Sportradar Group AG,26.55,0.12,0.46,36837.0M
+CHYM,"Chime Financial, Inc.",20.23,-0.13,-0.64,19233.0M
+RSI,"Rush Street Interactive, Inc.",19.66,-0.17,-0.83,71271.0M
+EDU,New Oriental Education & Technology Group Inc.,56.07,3.22,6.09,48309.0M
+OMF,"OneMain Holdings, Inc.",56.55,0.76,1.36,9255.0M
+ASX,"ASE Technology Holding Co., Ltd.",11.82,0.51,4.46,122245.0M
+NXE,NexGen Energy Ltd.,9.68,0.28,2.98,318569.0M
+TEAM,Atlassian Corporation,158.93,2.56,1.64,318530.0M
+CNM,"Core & Main, Inc.",52.59,0.81,1.56,50543.0M
+UAMY,United States Antimony Corporation,15.78,-1.64,-9.39,2.7M
+JHX,James Hardie Industries plc,22.48,0.06,0.29,14410.0M
+AX,"Axos Financial, Inc.",84.52,3.65,4.51,2507.0M
+EIX,Edison International,56.72,0.62,1.11,44016.0M
+SYM,Symbotic Inc.,77.26,3.62,4.92,75119.0M
+ONDS,Ondas Holdings Inc.,10.76,0.35,3.36,1.7M
+TOL,"Toll Brothers, Inc.",133.52,0.21,0.16,23491.0M
+BC,Brunswick Corporation,63.33,0.45,0.72,6018.0M
+APO-PA,"Apollo Global Management, Inc.",68.19,2.86,4.38,175160.0M
+BTU,Peabody Energy Corporation,35.12,0.26,0.76,74706.0M
+HPQ,HP Inc.,28.86,0.33,1.14,144068.0M
+FG,"F&G Annuities & Life, Inc.",30.16,1.25,4.32,1022.0M
+SVV,"Savers Value Village, Inc.",13.51,0.18,1.31,15004.0M
+ATEC,"Alphatec Holdings, Inc.",13.91,0.1,0.72,18615.0M
+LMND,"Lemonade, Inc.",53.62,1.08,2.06,78811.0M
+SFM,"Sprouts Farmers Market, Inc.",111.25,0.12,0.11,90355.0M
+HGTY,"Hagerty, Inc.",12.26,0.5,4.25,6098.0M
+DIOD,Diodes Incorporated,54.51,0.74,1.39,2294.0M
+ENVA,"Enova International, Inc.",110.47,4.49,4.24,3140.0M
+HTFL,"Heartflow, Inc.",35.11,0.49,1.42,4960.0M
+BUSE,First Busey Corporation,23.84,0.09,0.38,5981.0M
+JXN,Jackson Financial Inc.,99.50,4.02,4.21,3242.0M
+AUB,Atlantic Union Bankshares Corporation,36.13,0.14,0.39,8516.0M
+IE,Ivanhoe Electric Inc.,17.11,0.45,2.70,50345.0M
+KTB,"Kontoor Brands, Inc.",83.40,1.55,1.89,10088.0M
+THO,"THOR Industries, Inc.",105.25,4.2,4.16,7084.0M
+ARES,Ares Management Corporation,153.34,3.74,2.50,44220.0M
+WAL,Western Alliance Bancorporation,82.92,0.83,1.01,10818.0M
+SARO,"StandardAero, Inc.",29.08,0.44,1.53,75601.0M
+ASTS,"AST SpaceMobile, Inc.",98.50,4.0,4.23,739463.0M
+FBK,FB Financial Corporation,58.62,0.03,0.04,5376.0M
+METC,"Ramaco Resources, Inc.",57.35,2.8,5.13,159553.0M
+PL,Planet Labs PBC,15.42,0.63,4.23,401785.0M
+CAR,"Avis Budget Group, Inc.",157.01,1.52,0.98,5241.0M
+RKLB,Rocket Lab Corporation,70.14,2.11,3.10,1.3M
+SEI,"Solaris Energy Infrastructure, Inc.",54.79,2.06,3.91,85565.0M
+ESAB,ESAB Corporation,121.69,1.35,1.12,2550.0M
+OWL,Blue Owl Capital Inc.,17.03,0.27,1.64,236959.0M
+MTH,Meritage Homes Corporation,69.44,2.65,3.97,4380.0M
+WBS,Webster Financial Corporation,59.72,0.26,0.45,12798.0M
+ASB,Associated Banc-Corp,26.29,-0.07,-0.27,15744.0M
+RBLX,Roblox Corporation,139.46,6.17,4.63,161869.0M
+UAL,"United Airlines Holdings, Inc.",103.93,0.78,0.76,173481.0M
+SWK,"Stanley Black & Decker, Inc.",67.75,0.72,1.07,21825.0M
+CATY,Cathay General Bancorp,49.39,0.06,0.12,2286.0M
+BHF,"Brighthouse Financial, Inc.",50.20,0.28,0.56,4711.0M
+DPZ,"Domino's Pizza, Inc.",422.49,-1.74,-0.41,9256.0M
+COMP,"Compass, Inc.",7.14,-0.05,-0.72,71626.0M
+SEZL,Sezzle Inc.,80.31,0.3,0.37,23509.0M
+TBBB,BBB Foods Inc.,26.67,0.23,0.87,3861.0M
+C,Citigroup Inc.,101.45,1.64,1.64,195495.0M
+FLG,"Flagstar Financial, Inc.",12.12,0.07,0.62,25469.0M
+CVBF,CVB Financial Corp.,19.28,0.0,0.03,7807.0M
+SYBT,"Stock Yards Bancorp, Inc.",71.13,0.45,0.64,934.0M
+SYF,Synchrony Financial,74.46,1.65,2.27,165053.0M
+DOOO,BRP Inc.,68.35,0.63,0.93,476.0M
+AAL,American Airlines Group Inc.,12.19,-0.0,-0.00,978742.0M
+BANR,Banner Corporation,63.78,-0.25,-0.39,2344.0M
+MP,MP Materials Corp.,95.87,-2.82,-2.86,1.9M
+BE,Bloom Energy Corporation,121.12,7.05,6.18,643036.0M
+QS,QuantumScape Corporation,17.59,0.73,4.34,2.5M
+ERO,Ero Copper Corp.,23.80,0.23,0.97,44079.0M
+SFBS,"ServisFirst Bancshares, Inc.",80.96,2.92,3.74,1444.0M
+FUN,Six Flags Entertainment Corporation,21.26,-0.1,-0.44,36158.0M
+VIK,Viking Holdings Ltd,62.30,0.83,1.35,20472.0M
+BX,Blackstone Inc.,165.73,1.86,1.14,45320.0M
+RXO,"RXO, Inc.",17.18,0.24,1.44,117.0M
+AEO,"American Eagle Outfitters, Inc.",15.88,0.03,0.22,88400.0M
+TPH,"Tri Pointe Homes, Inc.",31.93,-0.1,-0.31,5323.0M
+Z,"Zillow Group, Inc.",72.86,0.55,0.76,25414.0M
+PHM,"PulteGroup, Inc.",124.71,-0.19,-0.15,25538.0M
+DFH,"Dream Finders Homes, Inc.",23.97,-0.19,-0.79,5915.0M
+SNV,Synovus Financial Corp.,48.15,0.31,0.65,10310.0M
+CVCO,"Cavco Industries, Inc.",511.33,0.36,0.07,524.0M
+LEN,Lennar Corporation,121.39,-0.84,-0.69,42756.0M
+TTE,TotalEnergies SE,60.59,2.21,3.79,109848.0M
+GBCI,"Glacier Bancorp, Inc.",49.06,1.68,3.55,6784.0M
+APLS,"Apellis Pharmaceuticals, Inc.",23.99,0.84,3.65,60046.0M
+U,Unity Software Inc.,37.77,1.17,3.20,324634.0M
+EBC,"Eastern Bankshares, Inc.",18.93,0.07,0.39,6397.0M
+FBIN,"Fortune Brands Innovations, Inc.",49.92,0.1,0.20,9225.0M
+ARX,Accelerant Holdings,14.83,0.26,1.78,13834.0M
+SEDG,"SolarEdge Technologies, Inc.",39.20,1.47,3.90,94522.0M
+STVN,Stevanato Group S.p.A.,24.12,0.81,3.47,841.0M
+EXPE,"Expedia Group, Inc.",223.99,0.87,0.39,9925.0M
+ZBH,"Zimmer Biomet Holdings, Inc.",98.53,0.12,0.13,10071.0M
+TREX,"Trex Company, Inc.",53.47,0.32,0.61,35134.0M
+LCII,LCI Industries,87.69,2.92,3.44,1358.0M
+FCFS,"FirstCash Holdings, Inc.",158.40,-0.53,-0.33,3552.0M
+ZK,ZEEKR Intelligent Technology Holding Limited,29.60,1.09,3.82,24176.0M
+LPX,Louisiana-Pacific Corporation,92.79,3.06,3.41,3871.0M
+CGNX,Cognex Corporation,45.95,0.72,1.59,22914.0M
+CWK,Cushman & Wakefield plc,15.76,0.22,1.38,12966.0M
+ABNB,"Airbnb, Inc.",125.57,2.68,2.18,160236.0M
+HGV,Hilton Grand Vacations Inc.,43.31,0.31,0.71,5612.0M
+BLK,"BlackRock, Inc.","1,202.50",7.98,0.67,27299.0M
+LEN-B,Lennar Corporation,114.78,3.76,3.39,704.0M
+LVS,Las Vegas Sands Corp.,48.31,0.28,0.57,59440.0M
+ENS,EnerSys,122.58,3.11,2.60,17168.0M
+RNST,Renasant Corporation,36.58,1.19,3.36,2850.0M
+TRMK,Trustmark Corporation,39.76,0.15,0.37,3355.0M
+SITE,"SiteOne Landscape Supply, Inc.",122.37,-1.68,-1.35,12281.0M
+THC,Tenet Healthcare Corporation,196.33,6.33,3.33,6575.0M
+PRK,Park National Corporation,162.00,5.21,3.32,265.0M
+CACC,Credit Acceptance Corporation,504.25,16.11,3.30,620.0M
+TEX,Terex Corporation,54.17,1.73,3.30,3181.0M
+CRBG,"Corebridge Financial, Inc.",32.76,0.17,0.54,67824.0M
+UPST,"Upstart Holdings, Inc.",51.93,1.54,3.06,359313.0M
+PAG,"Penske Automotive Group, Inc.",173.97,0.09,0.05,2734.0M
+VICR,Vicor Corporation,54.59,0.94,1.75,4252.0M
+RRR,"Red Rock Resorts, Inc.",58.26,0.59,1.02,6118.0M
+GBTG,"Global Business Travel Group, Inc.",8.05,0.06,0.75,4430.0M
+DLTR,"Dollar Tree, Inc.",100.00,4.42,4.62,344163.0M
+FULT,Fulton Financial Corporation,18.40,0.17,0.93,27090.0M
+ABCB,Ameris Bancorp,75.61,0.73,0.97,5865.0M
+APH,Amphenol Corporation,125.37,2.71,2.21,669332.0M
+BAX,Baxter International Inc.,22.65,-0.17,-0.74,49164.0M
+MAIN,Main Street Capital Corporation,58.67,0.21,0.37,31253.0M
+WYNN,"Wynn Resorts, Limited",117.30,1.19,1.02,33566.0M
+MATX,"Matson, Inc.",92.98,2.87,3.18,2417.0M
+COF,Capital One Financial Corporation,216.62,2.43,1.13,57630.0M
+REZI,"Resideo Technologies, Inc.",42.08,0.41,0.97,8453.0M
+POWI,"Power Integrations, Inc.",49.31,2.28,4.85,175892.0M
+FCNCA,"First Citizens BancShares, Inc.","1,788.09",54.49,3.14,375.0M
+BBT,Beacon Financial Corporation,25.53,0.45,1.82,10917.0M
+WOR,"Worthington Enterprises, Inc.",57.19,1.73,3.12,1481.0M
+CCJ,Cameco Corporation,96.62,3.44,3.70,243117.0M
+ENPH,"Enphase Energy, Inc.",37.98,1.54,4.23,251650.0M
+RELY,"Remitly Global, Inc.",15.49,0.18,1.21,143960.0M
+CFG,"Citizens Financial Group, Inc.",52.43,0.65,1.26,158244.0M
+NCLH,Norwegian Cruise Line Holdings Ltd.,23.91,0.16,0.65,124067.0M
+EFSC,Enterprise Financial Services Corp,56.65,-1.31,-2.25,3530.0M
+GSHD,"Goosehead Insurance, Inc",68.95,-0.01,-0.01,3769.0M
+VFC,V.F. Corporation,14.60,0.13,0.90,44205.0M
+UHS,"Universal Health Services, Inc.",204.12,0.26,0.13,4988.0M
+CROX,"Crocs, Inc.",83.86,-0.12,-0.14,32547.0M
+WULF,TeraWulf Inc.,15.62,0.16,1.01,2.5M
+MLCO,Melco Resorts & Entertainment Limited,7.92,0.14,1.80,61469.0M
+KC,Kingsoft Cloud Holdings Limited,13.22,0.32,2.52,84789.0M
+PKX,POSCO Holdings Inc.,49.40,-0.05,-0.10,1563.0M
+AVGO,Broadcom Inc.,350.66,6.53,1.90,1.4M
