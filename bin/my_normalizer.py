@@ -39,10 +39,10 @@ def normalize_yahoo(df):
         x = str(x).replace(',', '')  # Remove commas
         if 'M' in x:
             return str(round(float(x.strip('M')), 1)) + 'M'
-        else:
-            # Convert to millions if no 'M' suffix
-            return str(round(float(x) / 1_000_000, 6)) + 'M'
-    
+
+        # Convert to millions if no 'M' suffix
+        return str(round(float(x) / 1_000_000, 6)) + 'M'
+
     df['volume'] = df['volume'].apply(process_volume)
 
 
