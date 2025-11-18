@@ -1,0 +1,101 @@
+symbol,company_name,price,change,perc_change,volume
+OMER,Omeros Corp. ,11.14,7.04,171.83,673.7K
+SDOT,Sadot Group Inc. ,11.36,6.17,118.93,78.1K
+VERI,Veritone Inc. ,8.13,2.67,48.93,809.8K
+IBG,Innovation Beverage Group Ltd. ,4.58,1.36,42.11,62.1K
+SLNH,Soluna Holdings Inc. ,3.52,0.73,26.16,586.7K
+TE,T1 Energy Inc. ,5.01,1.0,24.87,106.3K
+BTDR,Bitdeer Technologies Group ,24.33,4.21,20.92,390.0K
+NUAI,New Era Energy & Digital Inc. ,3.71,0.64,20.85,385.9K
+HI,Hillenbrand Inc. ,31.42,4.93,18.61,1.0M
+HOND,HCM II Acquisition Corp. Cl A ,29.58,4.6,18.41,133.1K
+FOSL,Fossil Group Inc. ,3.13,0.48,18.11,130.6K
+QSI,Quantum-Si Inc. ,2.52,0.36,16.98,836.7K
+PZZA,Papa John's International Inc. ,54.7,6.02,12.37,68.2K
+DGXX,Digi Power X Inc. ,3.75,0.41,12.28,139.6K
+FLNC,Fluence Energy Inc. ,20.7,2.25,12.17,450.8K
+LTBR,Lightbridge Corp. ,28.5,2.81,10.94,162.0K
+BZAI,Blaize Holdings Inc. ,5.54,0.54,10.68,203.9K
+LWLG,Lightwave Logic Inc. ,6.22,0.57,10.2,74.9K
+MVST,Microvast Holdings Inc. ,5.76,0.51,9.79,304.2K
+PPTA,Perpetua Resources Corp. ,29.63,2.44,8.97,174.1K
+AEVA,Aeva Technologies Inc. ,19.5,1.43,7.91,77.3K
+OUST,Ouster Inc. ,39.01,2.85,7.88,148.6K
+URG,Ur-Energy Inc. ,2.26,0.17,7.86,269.9K
+EU,enCore Energy Corp. ,3.94,0.28,7.65,271.1K
+ARAI,Arrive AI Inc. ,6.73,0.47,7.5,65.4K
+AMPX,Amprius Technologies Inc. ,14.24,0.99,7.47,64.4K
+OKLO,Oklo Inc. ,186.95,12.81,7.36,92.8K
+BTQ,BTQ Technologies Corp. ,12.5,0.82,7.07,89.1K
+REKR,Rekor Systems Inc. ,2.7,0.17,6.94,262.7K
+UROY,Uranium Royalty Corp. ,4.57,0.29,6.91,92.0K
+GEVO,Gevo Inc. ,2.74,0.17,6.84,415.3K
+EOSE,Eos Energy Enterprises Inc. ,18.13,1.15,6.77,412.1K
+QUBT,Quantum Computing Inc. ,23.25,1.47,6.75,845.7K
+SUUN,PowerBank Corp. ,2.22,0.14,6.73,50.7K
+VOR,Vor Biopharma Inc. ,32.88,2.07,6.72,65.4K
+LAES,SEALSQ Corp. ,8.16,0.51,6.71,1.2M
+ATLX,Atlas Lithium Corp. ,7.95,0.5,6.71,91.3K
+UEC,Uranium Energy Corp. ,16.69,1.03,6.58,114.9K
+QBTS,D-Wave Quantum Inc. ,45.87,2.81,6.53,55.9K
+BITF,Bitfarms Ltd. ,6.26,0.38,6.37,1.6M
+NNE,Nano Nuclear Energy Inc. ,57.71,3.33,6.12,72.1K
+CCCX,Churchill Capital Corp. X Cl A ,25.8,1.47,6.04,109.5K
+ALM,Almonty Industries Inc. ,10.54,0.58,5.82,252.3K
+ABSI,Absci Corp. ,4.11,0.21,5.38,89.2K
+METC,Ramaco Resources Inc. Cl A ,57.4,2.85,5.23,69.7K
+RUN,Sunrun Inc. ,21.76,1.07,5.2,238.1K
+LIDR,AEye Inc. ,3.52,0.17,5.04,67.1K
+GILT,Gilat Satellite Networks Ltd. ,14.65,0.7,5.02,74.9K
+HUT,Hut 8 Corp. ,52.4,2.45,4.91,145.8K
+ARRY,Array Technologies Inc. ,9.51,0.44,4.85,96.5K
+BTSG,BrightSpring Health Services Inc. ,31.36,1.44,4.81,119.9K
+AAOI,Applied Optoelectronics Inc. ,29.85,1.37,4.81,66.7K
+ALAB,Astera Labs Inc. ,169.3,7.75,4.79,171.7K
+FUTU,Futu Holdings Ltd. ADR ,166.0,7.5,4.73,95.4K
+POWI,Power Integrations Inc. ,49.24,2.21,4.7,65.7K
+ENVX,Enovix Corp. ,13.47,0.6,4.66,195.3K
+PONY,Pony AI Inc. ADR ,22.0,0.97,4.61,195.2K
+CRWV,CoreWeave Inc. Cl A ,139.99,5.93,4.42,183.3K
+APLD,Applied Digital Corp. ,36.59,1.55,4.42,486.3K
+WRD,WeRide Inc. ADR ,11.08,0.47,4.38,58.3K
+FCEL,FuelCell Energy Inc. ,11.93,0.5,4.34,85.9K
+ACHR,Archer Aviation Inc. ,13.58,0.56,4.3,230.3K
+TSHA,Taysha Gene Therapies Inc. ,5.38,0.22,4.27,126.9K
+CSIQ,Canadian Solar Inc. ,16.39,0.67,4.26,53.9K
+SLDP,Solid Power Inc. ,7.23,0.29,4.21,415.1K
+SERV,Serve Robotics Inc. ,17.14,0.69,4.21,181.4K
+SHLS,Shoals Technologies Group Inc. ,10.55,0.42,4.15,242.9K
+SNDK,Sandisk Corp. ,132.51,5.22,4.1,52.3K
+PLUG,Plug Power Inc. ,4.22,0.17,4.07,1.5M
+BAC,Bank of America Corp. ,52.12,2.03,4.05,439.6K
+ZENA,ZenaTech Inc. ,6.99,0.3,4.48,95.1K
+CRDO,Credo Technology Group Holding Ltd. ,134.97,5.22,4.02,226.0K
+DPRO,Draganfly Inc. ,13.73,0.52,3.94,50.1K
+QS,QuantumScape Corp. Cl A ,17.54,0.66,3.9,295.4K
+DLO,dLocal Ltd. ,16.29,0.61,3.89,122.1K
+RCAT,Red Cat Holdings Inc. ,15.85,0.59,3.87,252.5K
+ENPH,Enphase Energy Inc. ,37.82,1.38,3.79,110.2K
+LRCX,Lam Research Corp. ,143.32,5.0,3.62,247.6K
+VNET,VNET Group Inc. ADR ,9.51,0.33,3.59,92.0K
+ASTS,AST SpaceMobile Inc. ,97.84,3.34,3.53,153.9K
+APPS,Digital Turbine Inc. ,6.79,0.23,3.5,54.2K
+ZNB,Zeta Network Group ,2.08,0.07,3.48,52.2K
+POET,POET Technologies Inc. ,9.36,0.31,3.43,181.7K
+RXRX,Recursion Pharmaceuticals Inc. ,6.09,0.2,3.4,588.4K
+TEM,Tempus AI Inc. ,92.92,3.05,3.39,63.9K
+INVZ,Innoviz Technologies Ltd. ,2.46,0.08,3.36,131.5K
+DLTR,Dollar Tree Inc. ,98.74,3.17,3.31,133.9K
+CDE,Coeur Mining Inc. ,21.67,0.68,3.24,74.5K
+GRAB,Grab Holdings Ltd. ,6.1,0.19,3.21,605.5K
+IREN,IREN Ltd. ,71.77,2.21,3.17,693.5K
+SOUN,SoundHound AI Inc. ,21.52,0.66,3.16,1.2M
+ADPT,Adaptive Biotechnologies Corp. ,16.07,0.49,3.16,59.4K
+DKNG,DraftKings Inc. Cl A ,35.41,1.05,3.06,223.6K
+NXE,NexGen Energy Ltd. ,9.68,0.28,3.03,58.0K
+UPST,Upstart Holdings Inc. ,51.87,1.48,2.94,114.2K
+NNOX,Nano-X Imaging Ltd. ,4.24,0.12,2.91,66.6K
+TSM,Taiwan Semiconductor Manufacturing Co. Ltd. ADR ,304.48,8.54,2.89,83.8K
+IONQ,IonQ Inc. ,79.76,2.21,2.86,68.0K
+BIDU,Baidu Inc. ADR ,123.35,3.41,2.84,86.5K
+DNN,Denison Mines Corp. ,3.28,0.09,2.82,152.1K

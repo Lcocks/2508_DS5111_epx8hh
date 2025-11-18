@@ -1,0 +1,101 @@
+symbol,company_name,price,change,perc_change,volume
+ARTV,Artiva Biotherapeutics Inc. ,6.01,3.24,116.97,98.8M
+KZR,Kezar Life Sciences Inc. ,6.36,2.19,52.52,5.8M
+NUAI,New Era Energy & Digital Inc. ,4.55,1.4,44.44,28.7M
+CREV,Carbon Revolution PLC ,5.34,1.61,43.36,25.9M
+VHC,VirnetX Holding Corp. ,23.87,6.87,40.41,2.2M
+NXTC,NextCure Inc. ,11.93,3.23,37.13,358.7K
+ACHV,Achieve Life Sciences Inc. ,4.2,1.12,36.36,15.8M
+SGHT,Sight Sciences Inc. ,4.69,1.24,35.94,1.6M
+LBRT,Liberty Energy Inc. ,15.32,3.38,28.35,24.9M
+REKR,Rekor Systems Inc. ,3.2,0.6,23.08,24.5M
+SOPA,Society Pass Inc. ,3.08,0.56,22.22,562.1K
+IRON,Disc Medicine Inc. ,89.94,15.58,20.95,2.2M
+LFS,LEIFRAS Co. Ltd. ADR ,4.11,0.71,20.88,381.7K
+ELDN,Eledon Pharmaceuticals Inc. ,3.44,0.59,20.7,5.5M
+MGRT,Mega Fortune Co. Ltd. ,5.2,0.86,19.82,401.1K
+MGN,Megan Holdings Ltd. ,2.61,0.43,19.72,225.5K
+UBXG,U-BX Technology Ltd. ,2.42,0.39,19.21,270.0K
+SPAI,Safe Pro Group Inc. ,8.95,1.42,18.86,1.6M
+AGH,Aureus Greenway Holdings Inc. ,5.91,0.9,17.96,627.0K
+ATAI,ATAI Life Sciences N.V. ,6.45,0.97,17.7,30.4M
+STI,Solidion Technology Inc. ,21.17,3.15,17.48,2.3M
+PRAX,Praxis Precision Medicines Inc. ,189.99,27.28,16.77,4.4M
+AKA,a.k.a. Brands Holding Corp. ,14.99,2.13,16.56,134.5K
+SABS,SAB Biotherapeutics Inc. ,2.51,0.34,15.67,418.0K
+OMEX,Odyssey Marine Exploration Inc. ,3.72,0.47,14.62,5.7M
+PGEN,Precigen Inc. ,4.0,0.51,14.61,11.5M
+MNMD,Mind Medicine (MindMed) Inc. ,13.65,1.74,14.61,3.7M
+APLM,Apollomics Inc. ,36.65,4.67,14.6,139.5K
+IMDX,Insight Molecular Diagnostics Inc. ,5.3,0.68,14.59,112.2K
+GWH,ESS Tech Inc. ,5.2,0.66,14.4,30.0M
+INV,Innventure Inc. ,3.47,0.43,14.14,658.1K
+SHMD,SCHMID Group N.V. ,4.13,0.5,13.77,113.9K
+SNYR,Synergy CHC Corp. ,2.69,0.32,13.5,172.4K
+SSII,SS Innovations International Inc. ,9.74,1.06,12.21,210.5K
+SIFY,Sify Technologies Ltd. ADR ,13.19,1.43,12.16,460.2K
+GTI,Graphjet Technology ,5.21,0.54,11.56,149.9K
+HOND,HCM II Acquisition Corp. Cl A ,25.92,2.66,11.44,4.8M
+BIRD,Allbirds Inc. ,6.9,0.64,10.22,64.9K
+IPWR,Ideal Power Inc. ,5.69,0.52,10.06,58.0K
+INVE,Identiv Inc. ,3.86,0.35,9.97,80.7K
+QNRX,Quoin Pharmaceuticals Ltd. ADR ,14.89,1.35,9.97,204.0K
+BETR,Better Home & Finance Holding Co. ,63.35,5.74,9.96,597.1K
+NXGL,NexGel Inc. ,2.59,0.23,9.75,113.6K
+PDEX,Pro-Dex Inc. ,26.22,2.31,9.68,197.7K
+AVTX,Avalo Therapeutics Inc. ,15.35,1.35,9.64,355.4K
+SKIL,Skillsoft Corp. ,16.27,1.41,9.45,153.0K
+LXEO,Lexeo Therapeutics Inc. ,9.58,0.81,9.24,4.4M
+LHAI,Linkhome Holdings Inc. ,10.99,0.92,9.14,249.3K
+RVMD,Revolution Medicines Inc. ,54.1,4.42,8.9,4.5M
+NXTT,Next Technology Holding Inc. ,25.13,1.99,8.6,65.5K
+PUMP,ProPetro Holding Corp. ,5.56,0.44,8.59,2.5M
+KVUE,Kenvue Inc. ,15.3,1.19,8.43,46.8M
+BCG,Binah Capital Group Inc. ,2.4,0.18,8.11,106.9K
+INDP,Indaptus Therapeutics Inc. ,3.7,0.27,7.87,157.4K
+DGXX,Digi Power X Inc. ,3.85,0.28,7.84,9.4M
+LVWR,LiveWire Group Inc. ,5.16,0.38,7.83,56.9K
+FEAM,5E Advanced Materials Inc. ,6.44,0.46,7.69,246.1K
+CRML,Critical Metals Corp. ,20.86,1.44,7.42,36.3M
+AXP,American Express Co. ,346.69,23.57,7.29,6.0M
+VWAV,VisionWave Holdings Inc. ,12.76,0.85,7.18,588.3K
+AGMH,AGM Group Holdings Inc. ,4.94,0.33,7.16,143.8K
+TRAW,Traws Pharma Inc. ,2.86,0.19,7.12,117.4K
+YSXT,YSX Tech. Co. Ltd. ,2.59,0.17,7.02,84.3K
+MOB,Mobilicom Ltd. ADR ,8.08,0.53,7.02,410.6K
+RAYA,Erayak Power Solution Group Inc. ,5.65,0.36,6.91,54.1K
+CCCX,Churchill Capital Corp. X Cl A ,21.1,1.36,6.89,7.3M
+SKY,Champion Homes Inc. ,75.72,4.88,6.89,1.1M
+HYPD,Hyperion DeFi Inc. ,7.27,0.46,6.75,448.5K
+GNLX,Genelux Corp. ,5.72,0.36,6.72,207.1K
+EAF,GrafTech International Ltd. ,17.74,1.08,6.48,238.1K
+KEP,Korea Electric Power Corp. ADR ,15.3,0.93,6.44,688.5K
+OBLG,Oblong Inc. ,2.83,0.17,6.39,101.0K
+YDES,YD Bio Ltd. ,20.06,1.19,6.31,72.7K
+IMMX,Immix Biopharma Inc. ,2.87,0.17,6.3,524.5K
+CISS,C3is Inc. ,2.2,0.13,6.28,1.9M
+ENGN,enGene Holdings Inc. ,9.35,0.55,6.25,520.4K
+REFI,Chicago Atlantic Real Estate Finance Inc. ,13.22,0.77,6.18,248.9K
+OKYO,Okyo Pharma Ltd. ,2.24,0.13,6.16,196.2K
+BGMS,Bio Green Med Solution Inc. ,4.04,0.23,6.04,110.6K
+JEF,Jefferies Financial Group Inc. ,51.69,2.89,5.92,6.5M
+MIND,MIND Technology Inc. ,9.97,0.55,5.84,199.8K
+ZION,Zions Bancorp N.A. ,49.67,2.74,5.84,9.1M
+BNZI,Banzai International Inc. ,2.91,0.16,5.82,228.7K
+ABVE,Above Food Ingredients Inc. ,5.28,0.29,5.81,3.2M
+CNS,Cohen & Steers Inc. ,69.62,3.82,5.81,470.8K
+KMTS,Kestra Medical Technologies Ltd. ,24.61,1.34,5.76,307.6K
+TLSI,TriSalus Life Sciences Inc. ,5.02,0.27,5.68,203.0K
+IDYA,IDEAYA Biosciences Inc. ,29.26,1.57,5.67,3.5M
+RKDA,Arcadia Biosciences Inc. ,5.48,0.29,5.59,368.5K
+PTIX,Protagenic Therapeutics Inc. ,3.22,0.17,5.57,75.8K
+EBC,Eastern Bankshares Inc. ,18.17,0.95,5.52,5.5M
+HROW,Harrow Inc. ,40.01,2.09,5.51,796.8K
+SLNH,Soluna Holdings Inc. ,4.42,0.23,5.49,19.1M
+APPF,AppFolio Inc. ,235.51,12.2,5.46,432.2K
+CREX,Creative Realities Inc. ,2.8,0.14,5.26,125.7K
+IZEA,IZEA Worldwide Inc. ,5.6,0.28,5.26,304.1K
+DMRC,Digimarc Corp. ,8.6,0.43,5.26,95.0K
+VRDN,Viridian Therapeutics Inc. ,24.21,1.2,5.22,1.3M
+CRDO,Credo Technology Group Holding Ltd. ,143.61,7.08,5.19,6.2M
+NKTR,Nektar Therapeutics ,57.77,2.81,5.11,2.2M

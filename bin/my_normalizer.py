@@ -33,7 +33,20 @@ def normalize_yahoo(df):
 
     # Update the perc_change and volume columns
     df['perc_change'] = df['perc_change'].apply(lambda x: str(x).strip('+%'))
-    df['volume'] = df['volume'].apply(lambda x: str(round(float(str(x).strip('M')), 1)) + 'M')
+
+    # Fix volume processing
+    def process_volume(x):
+        x = str(x).replace(',', '')  # Remove commas
+        if 'M' in x:
+            return str(round(float(x.strip('M')), 1)) + 'M'
+
+        # Convert to millions if no 'M' suffix
+        return str(round(float(x) / 1_000_000, 6)) + 'M'
+
+    df['volume'] = df['volume'].apply(process_volume)
+
+
+#    df['volume'] = df['volume'].apply(lambda x: str(round(float(str(x).strip('M')), 1)) + 'M')
 
     # Handle missing values
     numeric_cols = ['price', 'change', 'perc_change', 'volume']  # numeric columns

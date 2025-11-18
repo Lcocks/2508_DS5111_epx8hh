@@ -1,0 +1,101 @@
+symbol,company_name,price,change,perc_change,volume
+ARTV,Artiva Biotherapeutics Inc. ,5.58,2.81,101.26,140.7K
+ACHV,Achieve Life Sciences Inc. ,3.94,0.86,27.92,107.5K
+SGBX,Safe & Green Holdings Corp. ,3.77,0.69,22.4,53.1K
+PRAX,Praxis Precision Medicines Inc. ,178.88,16.17,9.94,52.6K
+ALLY,Ally Financial Inc. ,40.98,2.53,6.58,52.9K
+ZION,Zions Bancorp N.A. ,48.98,2.05,4.36,85.6K
+FITB,Fifth Third Bancorp ,42.1,1.74,4.31,239.3K
+BTQ,BTQ Technologies Corp. ,11.6,0.45,3.99,95.3K
+LUNR,Intuitive Machines Inc. Cl A ,12.3,0.47,3.93,223.6K
+NUAI,New Era Energy & Digital Inc. ,3.25,0.1,3.17,126.3K
+SATL,Satellogic Inc. ,3.0,0.09,2.92,60.2K
+KVUE,Kenvue Inc. ,14.47,0.36,2.55,58.9K
+CSX,CSX Corp. ,36.86,0.88,2.43,525.8K
+LAES,SEALSQ Corp. ,6.51,0.15,2.36,349.7K
+LXEO,Lexeo Therapeutics Inc. ,8.96,0.2,2.22,58.2K
+VLY,Valley National Bancorp ,9.89,0.17,1.75,116.0K
+ASX,ASE Technology Holding Co. Ltd. ADR ,12.78,0.2,1.63,111.0K
+ONB,Old National Bancorp ,19.87,0.27,1.38,71.2K
+DDOG,Datadog Inc. Cl A ,153.23,2.06,1.37,89.8K
+GILD,Gilead Sciences Inc. ,119.09,1.24,1.05,332.0K
+INFY,Infosys Ltd. ADR ,16.23,0.16,1.0,99.7K
+STLA,Stellantis N.V. ,10.32,0.09,0.88,58.6K
+WDAY,Workday Inc. Cl A ,229.42,1.82,0.8,62.3K
+PEP,PepsiCo Inc. ,153.73,1.06,0.69,340.2K
+HYMC,Hycroft Mining Holding Corp. ,8.9,0.06,0.68,51.1K
+HBAN,Huntington Bancshares Inc. ,15.47,0.1,0.65,512.7K
+KO,Coca-Cola Co. ,68.02,0.43,0.64,57.8K
+VOD,Vodafone Group PLC ADR ,11.55,0.07,0.61,52.0K
+ROST,Ross Stores Inc. ,156.12,0.91,0.59,78.7K
+COST,Costco Wholesale Corp. ,931.0,5.38,0.58,87.7K
+MNST,Monster Beverage Corp. ,70.56,0.4,0.56,251.7K
+MDLZ,Mondelez International Inc. Cl A ,61.94,0.34,0.56,274.5K
+KHC,Kraft Heinz Co. ,25.26,0.13,0.52,233.5K
+EXC,Exelon Corp. ,47.6,0.24,0.51,235.4K
+SBRA,Sabra Healthcare REIT Inc. ,17.89,0.09,0.51,52.7K
+BKR,Baker Hughes Co. ,44.86,0.22,0.49,284.3K
+LNT,Alliant Energy Corp. ,67.9,0.29,0.44,64.1K
+AEP,American Electric Power Co. Inc. ,118.01,0.48,0.41,109.7K
+KMB,Kimberly-Clark Corp. ,120.18,0.48,0.4,68.8K
+ACGL,Arch Capital Group Ltd. ,86.56,0.33,0.38,82.4K
+CTAS,Cintas Corp. ,185.04,0.68,0.37,92.3K
+DEFT,DeFi Technologies Inc. ,2.1,0.01,0.37,160.6K
+LKQ,LKQ Corp. ,29.92,0.1,0.32,50.8K
+CCCX,Churchill Capital Corp. X Cl A ,19.8,0.06,0.3,54.2K
+FANG,Diamondback Energy Inc. ,139.85,0.41,0.29,51.6K
+CPB,Campbell's Co. ,30.8,0.09,0.29,66.9K
+TMUS,T-Mobile US Inc. ,227.09,0.64,0.28,128.7K
+CME,CME Group Inc. Cl A ,263.23,0.72,0.27,78.7K
+AAPL,Apple Inc. ,248.08,0.63,0.25,2.7M
+SLDP,Solid Power Inc. ,6.06,0.01,0.25,120.4K
+ADP,Automatic Data Processing Inc. ,280.81,0.65,0.23,79.8K
+UAL,United Airlines Holdings Inc. ,98.39,0.2,0.2,98.7K
+NWSA,News Corp Cl A ,25.96,0.05,0.19,71.0K
+ORLY,O'Reilly Automotive Inc. ,101.36,0.18,0.18,207.1K
+XEL,Xcel Energy Inc. ,81.24,0.14,0.17,166.1K
+LIN,Linde PLC ,445.0,0.77,0.17,116.3K
+NEXT,NextDecade Corp. ,6.12,0.01,0.16,77.1K
+CPRT,Copart Inc. ,44.11,0.06,0.12,233.9K
+AMZN,Amazon.com Inc. ,214.73,0.26,0.12,2.0M
+CSCO,Cisco Systems Inc. ,69.17,0.07,0.11,757.0K
+ABNB,Airbnb Inc. Cl A ,123.02,0.13,0.11,104.0K
+ERIC,Telefon AB L.M. Ericsson Series B ADR ,9.49,0.01,0.11,122.7K
+CMCSA,Comcast Corp. Cl A ,29.29,0.03,0.1,793.5K
+NOK,Nokia Corp. ADR ,5.68,0.01,0.09,212.5K
+EA,Electronic Arts Inc. ,200.5,0.15,0.07,50.5K
+FAST,Fastenal Co. ,41.99,0.03,0.07,250.9K
+HOND,HCM II Acquisition Corp. Cl A ,23.28,0.01,0.06,54.4K
+TSCO,Tractor Supply Co. ,55.2,0.04,0.06,112.6K
+HON,Honeywell International Inc. ,203.26,0.09,0.04,129.1K
+TRMB,Trimble Inc. ,77.9,0.03,0.04,56.8K
+AZN,AstraZeneca PLC ADR ,83.85,0.02,0.02,57.8K
+INTU,Intuit Inc. ,647.14,0.15,0.02,64.2K
+ISRG,Intuitive Surgical Inc. ,434.69,0.07,0.02,94.7K
+CTSH,Cognizant Technology Solutions Corp. ,65.48,0.01,0.02,119.8K
+APA,APA Corp. ,23.0,0.0,0.0,109.8K
+BGC,BGC Group Inc. Cl A ,9.1,0.0,0.0,54.5K
+AAL,American Airlines Group Inc. ,11.89,0.0,0.0,262.5K
+RIVN,Rivian Automotive Inc. Cl A ,12.91,0.0,0.0,139.7K
+SBUX,Starbucks Corp. ,84.33,-0.01,-0.01,254.1K
+MAR,Marriott International Inc. ,259.0,-0.04,-0.02,51.9K
+ADI,Analog Devices Inc. ,241.55,-0.06,-0.02,93.3K
+MTCH,Match Group Inc. ,32.34,-0.01,-0.03,50.3K
+NFLX,Netflix Inc. ,1183.05,-0.54,-0.05,86.7K
+KDP,Keurig Dr Pepper Inc. ,27.7,-0.01,-0.05,332.9K
+SHOP,Shopify Inc. ,156.47,-0.1,-0.06,95.6K
+CSGP,CoStar Group Inc. ,74.28,-0.07,-0.09,95.3K
+ARCC,Ares Capital Corp. ,19.51,-0.02,-0.1,84.2K
+TROW,T. Rowe Price Group Inc. ,103.03,-0.12,-0.12,53.7K
+VTRS,Viatris Inc. ,10.09,-0.01,-0.15,231.9K
+HST,Host Hotels & Resorts Inc. ,16.16,-0.03,-0.19,129.1K
+QS,QuantumScape Corp. Cl A ,15.43,-0.03,-0.19,128.5K
+ADBE,Adobe Inc. ,328.5,-0.73,-0.22,122.8K
+DXCM,DexCom Inc. ,66.18,-0.15,-0.23,82.4K
+TXN,Texas Instruments Inc. ,175.08,-0.41,-0.23,207.0K
+EBAY,eBay Inc. ,90.96,-0.23,-0.25,99.3K
+AGNC,AGNC Investment Corp. ,9.9,-0.03,-0.25,118.8K
+CZR,Caesars Entertainment Inc. ,21.68,-0.06,-0.25,66.8K
+PAYX,Paychex Inc. ,126.12,-0.37,-0.29,63.4K
+LRCX,Lam Research Corp. ,141.94,-0.42,-0.3,311.5K
+ADSK,Autodesk Inc. ,298.91,-0.91,-0.3,51.2K
