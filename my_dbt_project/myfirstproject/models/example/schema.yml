@@ -1,0 +1,49 @@
+
+version: 2
+
+models:
+  - name: my_first_dbt_model
+    description: "A starter dbt model"
+    columns:
+      - name: id
+        description: "The primary key for this table"
+        data_tests:
+          - unique
+          - not_null
+
+  - name: my_second_dbt_model
+    description: "A starter dbt model"
+    columns:
+      - name: id
+        description: "The primary key for this table"
+        data_tests:
+          - unique
+          - not_null
+
+  - name: french 
+    description: "test french table"
+    columns:
+      - name: FR 
+        description: "The primary key for this table"
+        data_tests:
+          - unique
+          - not_null
+  - name: french 
+    description: "test french table"
+    columns:
+      - name: FR 
+        description: "The primary key for this table"
+        data_tests:
+          - unique
+          - not_null
+          - accepted_values:
+              values:  ['un', 'deux', 'trois']
+
+  - name: unique_syms
+    description: "test unique symbols table of stocks"
+    columns:
+      - name: SYMBOL
+        description: "Only column, primary key"
+        data_tests:
+          - unique
+          - not_null
